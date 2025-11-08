@@ -85,11 +85,11 @@ CAR,8476873,{'default': 'Mark'} {'default': 'Jankowski'},L,L,76,200,1994-09-13
 CAR,8482093,{'default': 'Seth'} {'default': 'Jarvis'},C,R,70,180,2002-02-01
 CAR,8480829,{'default': 'Jesperi'} {'default': 'Kotkaniemi'},C,L,75,212,2000-07-06
 CAR,8476921,{'default': 'Jordan'} {'default': 'Martinook'},L,L,73,208,1992-07-25
-CAR,8484203,{'default': 'Bradly'} {'default': 'Nadeau'},L,R,71,180,2005-05-05
 CAR,8480762,{'default': 'Eric'} {'default': 'Robinson'},L,L,74,220,1995-06-14
 CAR,8473533,{'default': 'Jordan'} {'default': 'Staal'},C,L,76,220,1988-09-10
 CAR,8482702,{'default': 'Logan'} {'default': 'Stankoven'},C,R,68,165,2003-02-26
 CAR,8480830,"{'default': 'Andrei', 'cs': 'Andrej', 'sk': 'Andrej'} {'default': 'Svechnikov', 'cs': 'Svečnikov', 'fi': 'Svetshnikov', 'sk': 'Svečnikov'}",R,L,75,200,2000-03-26
+CAR,8479945,{'default': 'Gavin'} {'default': 'Bayreuther'},D,L,74,210,1994-05-12
 CAR,8478970,{'default': 'Jalen'} {'default': 'Chatfield'},D,R,73,209,1996-05-15
 CAR,8476906,{'default': 'Shayne'} {'default': 'Gostisbehere'},D,L,71,183,1993-04-20
 CAR,8484428,{'default': 'Charles Alexis'} {'default': 'Legault'},D,R,76,220,2003-09-05
@@ -145,6 +145,7 @@ CGY,8480860,{'default': 'Kevin'} {'default': 'Bahl'},D,L,78,230,2000-06-27
 CGY,8479402,{'default': 'Jake'} {'default': 'Bean'},D,L,73,191,1998-06-09
 CGY,8477810,{'default': 'Joel'} {'default': 'Hanley'},D,L,71,186,1991-06-08
 CGY,8482165,{'default': 'Yan'} {'default': 'Kuznetsov'},D,L,76,209,2002-03-09
+CGY,8482624,{'default': 'Daniil'} {'default': 'Miromanov'},D,R,76,207,1997-07-11
 CGY,8481167,{'default': 'Brayden'} {'default': 'Pachal'},D,R,74,202,1999-08-23
 CGY,8484768,{'default': 'Zayne'} {'default': 'Parekh'},D,R,72,179,2006-02-15
 CGY,8477346,{'default': 'MacKenzie'} {'default': 'Weegar'},D,R,72,206,1994-01-07
@@ -398,7 +399,6 @@ NSH,8482146,{'default': 'Luke'} {'default': 'Evangelista'},R,R,72,183,2002-02-21
 NSH,8476887,{'default': 'Filip'} {'default': 'Forsberg'},L,R,73,205,1994-08-13
 NSH,8475287,{'default': 'Erik'} {'default': 'Haula'},L,L,71,191,1991-03-23
 NSH,8479370,{'default': 'Tyson'} {'default': 'Jost'},C,L,71,187,1998-03-14
-NSH,8482742,"{'default': 'Zachary'} {'default': ""L'Heureux""}",L,L,71,197,2003-05-15
 NSH,8476539,{'default': 'Jonathan'} {'default': 'Marchessault'},C,R,69,185,1990-12-27
 NSH,8477446,{'default': 'Michael'} {'default': 'McCarron'},R,R,78,232,1995-03-07
 NSH,8475158,"{'default': 'Ryan'} {'default': ""O'Reilly""}",C,L,73,207,1991-02-07
@@ -664,7 +664,7 @@ TOR,8477541,{'default': 'Dakota'} {'default': 'Mermis'},D,L,72,197,1994-01-05
 TOR,8479026,{'default': 'Philippe'} {'default': 'Myers'},D,R,77,221,1997-01-25
 TOR,8476853,{'default': 'Morgan'} {'default': 'Rielly'},D,L,73,219,1994-03-09
 TOR,8475690,"{'default': 'Chris', 'cs': 'Christopher', 'de': 'Christopher', 'es': 'Christopher', 'fi': 'Christopher', 'sk': 'Christopher', 'sv': 'Christopher'} {'default': 'Tanev'}",D,R,75,200,1989-12-20
-TOR,8480051,{'default': 'Cayden'} {'default': 'Primeau'},G,L,75,205,1999-08-11
+TOR,8483710,{'default': 'Dennis'} {'default': 'Hildeby'},G,L,79,231,2001-08-19
 TOR,8476932,{'default': 'Anthony'} {'default': 'Stolarz'},G,L,78,248,1994-01-20
 UTA,8479619,{'default': 'Michael'} {'default': 'Carcone'},L,L,69,182,1996-05-19
 UTA,8483431,{'default': 'Logan'} {'default': 'Cooley'},C,L,72,191,2004-05-04
@@ -781,7 +781,6 @@ WSH,8481580,{'default': 'Connor'} {'default': 'McMichael'},C,L,72,180,2001-01-15
 WSH,8477947,{'default': 'Sonny'} {'default': 'Milano'},L,L,72,205,1996-05-12
 WSH,8471214,"{'default': 'Alex', 'cs': 'Alexandr', 'fi': 'Aleksandr', 'sk': 'Alexander'} {'default': 'Ovechkin', 'cs': 'Ovečkin', 'fi': 'Ovetshkin', 'sk': 'Ovečkin'}",L,R,75,238,1985-09-17
 WSH,8481656,"{'default': 'Aliaksei', 'cs': 'Alexej', 'de': 'Alexei', 'es': 'Alexei', 'fi': 'Aljaksei', 'sk': 'Alexej'} {'default': 'Protas'}",C,L,78,250,2001-01-06
-WSH,8478867,{'default': 'Spencer'} {'default': 'Smallman'},R,R,73,205,1996-09-09
 WSH,8482088,{'default': 'Justin'} {'default': 'Sourdif'},R,R,72,195,2002-03-24
 WSH,8478440,{'default': 'Dylan'} {'default': 'Strome'},C,L,76,200,1997-03-07
 WSH,8476880,{'default': 'Tom'} {'default': 'Wilson'},R,R,76,225,1994-03-29
