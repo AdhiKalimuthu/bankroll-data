@@ -375,7 +375,6 @@ NJD,8474149,"{'default': 'Evgenii', 'cs': 'Jevgenij', 'fi': 'Jevgeni', 'sk': 'Je
 NJD,8479996,{'default': 'Cody'} {'default': 'Glass'},C,R,75,201,1999-04-01
 NJD,8476822,{'default': 'Luke'} {'default': 'Glendening'},C,R,71,190,1989-04-28
 NJD,8481721,{'default': 'Arseny'} {'default': 'Gritsyuk'},R,L,72,195,2001-03-15
-NJD,8483531,{'default': 'Brian'} {'default': 'Halonen'},L,R,72,207,1999-01-11
 NJD,8480002,{'default': 'Nico'} {'default': 'Hischier'},C,L,73,200,1999-01-04
 NJD,8481559,{'default': 'Jack'} {'default': 'Hughes'},C,L,71,175,2001-05-14
 NJD,8477996,{'default': 'Juho'} {'default': 'Lammikko'},C,L,74,191,1996-01-29
@@ -445,7 +444,6 @@ NYI,8478009,"{'default': 'Ilya', 'cs': 'Ilja', 'fi': 'Ilja', 'sk': 'Ilja'} {'def
 NYI,8473575,"{'default': 'Semyon', 'cs': 'Semjon', 'fi': 'Semjon', 'sk': 'Semjon'} {'default': 'Varlamov'}",G,L,74,201,1988-04-27
 NYR,8477380,{'default': 'Jonny'} {'default': 'Brodzinski'},C,R,72,206,1993-06-19
 NYR,8475842,{'default': 'Sam'} {'default': 'Carrick'},C,R,72,202,1992-02-04
-NYR,8482877,{'default': 'Jaroslav'} {'default': 'Chmelar'},R,R,76,226,2003-07-20
 NYR,8482157,{'default': 'Will'} {'default': 'Cuylle'},L,L,75,212,2002-02-05
 NYR,8481726,"{'default': 'Adam'} {'default': 'Edstrom', 'cs': 'Edström', 'fi': 'Edström', 'sk': 'Edström', 'sv': 'Edström'}",C,L,79,232,2000-10-12
 NYR,8483690,{'default': 'Noah'} {'default': 'Laba'},C,R,75,214,2003-08-04
