@@ -1,0 +1,5 @@
+away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
+0,New York Rangers,13,2025-11-13T00:00Z,401802616,0,Tampa Bay Lightning,20,Scheduled
+0,Edmonton Oilers,6,2025-11-13T00:30Z,401802617,0,Philadelphia Flyers,15,Scheduled
+0,Buffalo Sabres,2,2025-11-13T02:00Z,401802618,0,Utah Mammoth,129764,Scheduled
+0,New Jersey Devils,11,2025-11-13T02:30Z,401802619,0,Chicago Blackhawks,4,Scheduled
