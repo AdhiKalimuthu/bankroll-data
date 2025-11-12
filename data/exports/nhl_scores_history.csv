@@ -1,0 +1,52 @@
+away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
+0,New York Rangers,13,2025-11-13T00:00Z,401802616,0,Tampa Bay Lightning,20,Scheduled
+0,Edmonton Oilers,6,2025-11-13T00:30Z,401802617,0,Philadelphia Flyers,15,Scheduled
+0,Buffalo Sabres,2,2025-11-13T02:00Z,401802618,0,Utah Mammoth,129764,Scheduled
+0,New Jersey Devils,11,2025-11-13T02:30Z,401802619,0,Chicago Blackhawks,4,Scheduled
+3,Toronto Maple Leafs,21,2025-11-12T00:00Z,401802607,5,Boston Bruins,1,Final
+5,Los Angeles Kings,8,2025-11-12T00:00Z,401802608,1,Montreal Canadiens,10,Final
+3,Dallas Stars,9,2025-11-12T00:00Z,401802609,2,Ottawa Senators,14,Final
+4,Washington Capitals,23,2025-11-12T00:00Z,401802610,1,Carolina Hurricanes,7,Final
+2,Calgary Flames,3,2025-11-12T01:00Z,401802611,3,St. Louis Blues,19,Final
+2,San Jose Sharks,18,2025-11-12T01:00Z,401802612,1,Minnesota Wild,30,Final
+1,Anaheim Ducks,25,2025-11-12T02:30Z,401802613,4,Colorado Avalanche,17,Final
+5,Winnipeg Jets,28,2025-11-12T03:00Z,401802614,3,Vancouver Canucks,22,Final
+1,Columbus Blue Jackets,29,2025-11-12T03:00Z,401802615,1,Seattle Kraken,124292,In Progress
+3,New York Islanders,12,2025-11-11T00:00Z,401802603,2,New Jersey Devils,11,Final
+3,Nashville Predators,27,2025-11-11T00:00Z,401802604,6,New York Rangers,13,Final
+4,Columbus Blue Jackets,29,2025-11-11T01:30Z,401802605,5,Edmonton Oilers,6,Final
+3,Florida Panthers,26,2025-11-11T03:00Z,401802606,2,Vegas Golden Knights,37,Final
+5,Chicago Blackhawks,4,2025-11-09T18:00Z,401802595,1,Detroit Red Wings,5,Final
+3,Los Angeles Kings,8,2025-11-09T19:00Z,401802596,2,Pittsburgh Penguins,16,Final
+5,Carolina Hurricanes,7,2025-11-10T00:00Z,401802597,4,Toronto Maple Leafs,21,Final
+2,Utah Mammoth,129764,2025-11-10T00:00Z,401802598,4,Ottawa Senators,14,Final
+1,Seattle Kraken,124292,2025-11-10T00:00Z,401802599,2,Dallas Stars,9,Final
+0,Calgary Flames,3,2025-11-10T01:00Z,401802600,2,Minnesota Wild,30,Final
+5,Colorado Avalanche,17,2025-11-10T03:00Z,401802601,4,Vancouver Canucks,22,Final
+1,Winnipeg Jets,28,2025-11-10T03:00Z,401802602,4,Anaheim Ducks,25,Final
+1,Pittsburgh Penguins,16,2025-11-08T17:30Z,401802582,2,New Jersey Devils,11,Final
+3,Ottawa Senators,14,2025-11-08T18:00Z,401802583,2,Philadelphia Flyers,15,Final
+5,Dallas Stars,9,2025-11-08T20:30Z,401802584,4,Nashville Predators,27,Final
+5,Boston Bruins,1,2025-11-09T00:00Z,401802585,3,Toronto Maple Leafs,21,Final
+2,Utah Mammoth,129764,2025-11-09T00:00Z,401802586,6,Montreal Canadiens,10,Final
+2,Washington Capitals,23,2025-11-09T00:00Z,401802587,3,Tampa Bay Lightning,20,Final
+5,New York Islanders,12,2025-11-09T00:00Z,401802588,0,New York Rangers,13,Final
+3,Buffalo Sabres,2,2025-11-09T00:00Z,401802589,6,Carolina Hurricanes,7,Final
+4,Seattle Kraken,124292,2025-11-09T00:00Z,401802590,3,St. Louis Blues,19,Final
+9,Colorado Avalanche,17,2025-11-09T03:00Z,401802591,1,Edmonton Oilers,6,Final
+3,Columbus Blue Jackets,29,2025-11-09T03:00Z,401802592,4,Vancouver Canucks,22,Final
+4,Anaheim Ducks,25,2025-11-09T03:00Z,401802593,3,Vegas Golden Knights,37,Final
+1,Florida Panthers,26,2025-11-09T03:00Z,401802594,3,San Jose Sharks,18,Final
+4,New York Rangers,13,2025-11-08T00:00Z,401802578,1,Detroit Red Wings,5,Final
+5,Minnesota Wild,30,2025-11-08T00:00Z,401802579,2,New York Islanders,12,Final
+4,Chicago Blackhawks,4,2025-11-08T02:00Z,401802580,0,Calgary Flames,3,Final
+1,Winnipeg Jets,28,2025-11-08T03:00Z,401802581,2,San Jose Sharks,18,Final
+2,Ottawa Senators,14,2025-11-07T00:00Z,401802569,3,Boston Bruins,1,Final
+3,St. Louis Blues,19,2025-11-07T00:00Z,401802570,0,Buffalo Sabres,2,Final
+3,Montreal Canadiens,10,2025-11-07T00:00Z,401802571,4,New Jersey Devils,11,Final
+3,Minnesota Wild,30,2025-11-07T00:00Z,401802573,4,Carolina Hurricanes,7,Final
+3,Washington Capitals,23,2025-11-07T00:30Z,401802572,5,Pittsburgh Penguins,16,Final
+3,Philadelphia Flyers,15,2025-11-07T01:00Z,401802574,1,Nashville Predators,27,Final
+7,Anaheim Ducks,25,2025-11-07T01:00Z,401802575,5,Dallas Stars,9,Final
+6,Tampa Bay Lightning,20,2025-11-07T03:00Z,401802576,3,Vegas Golden Knights,37,Final
+5,Florida Panthers,26,2025-11-07T03:00Z,401802577,2,Los Angeles Kings,8,Final

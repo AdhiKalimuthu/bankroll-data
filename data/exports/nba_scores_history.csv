@@ -1,0 +1,55 @@
+away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
+0,Milwaukee Bucks,15,2025-11-13T00:00Z,401810068,0,Charlotte Hornets,30,Scheduled
+0,Chicago Bulls,4,2025-11-13T00:00Z,401810069,0,Detroit Pistons,8,Scheduled
+0,Orlando Magic,19,2025-11-13T00:00Z,401810070,0,New York Knicks,18,Scheduled
+0,Memphis Grizzlies,29,2025-11-13T00:30Z,401810071,0,Boston Celtics,2,Scheduled
+0,Cleveland Cavaliers,5,2025-11-13T00:30Z,401810072,0,Miami Heat,14,Scheduled
+0,Washington Wizards,27,2025-11-13T01:00Z,401810073,0,Houston Rockets,10,Scheduled
+0,Portland Trail Blazers,22,2025-11-13T01:00Z,401810074,0,New Orleans Pelicans,3,Scheduled
+0,Golden State Warriors,9,2025-11-13T01:00Z,401810075,0,San Antonio Spurs,24,Scheduled
+0,Phoenix Suns,21,2025-11-13T01:30Z,401810076,0,Dallas Mavericks,6,Scheduled
+0,Los Angeles Lakers,13,2025-11-13T02:30Z,401810077,0,Oklahoma City Thunder,25,Scheduled
+0,Atlanta Hawks,1,2025-11-13T03:00Z,401810078,0,Sacramento Kings,23,Scheduled
+0,Denver Nuggets,7,2025-11-13T03:30Z,401810079,0,LA Clippers,12,Scheduled
+119,Toronto Raptors,28,2025-11-12T00:30Z,401810062,109,Brooklyn Nets,17,Final
+120,Memphis Grizzlies,29,2025-11-12T00:30Z,401810063,133,New York Knicks,18,Final
+100,Boston Celtics,2,2025-11-12T01:00Z,401810064,102,Philadelphia 76ers,20,Final
+102,Golden State Warriors,9,2025-11-12T01:00Z,401810065,126,Oklahoma City Thunder,25,Final
+128,Indiana Pacers,11,2025-11-12T02:00Z,401810066,152,Utah Jazz,26,Final
+78,Denver Nuggets,7,2025-11-12T04:00Z,401810067,72,Sacramento Kings,23,In Progress
+121,Los Angeles Lakers,13,2025-11-11T00:00Z,401810053,111,Charlotte Hornets,30,Final
+135,Washington Wizards,27,2025-11-11T00:00Z,401810054,137,Detroit Pistons,8,Final
+112,Portland Trail Blazers,22,2025-11-11T00:00Z,401810055,115,Orlando Magic,19,Final
+138,Cleveland Cavaliers,5,2025-11-11T00:30Z,401810056,140,Miami Heat,14,Final
+121,San Antonio Spurs,24,2025-11-11T01:00Z,401810057,117,Chicago Bulls,4,Final
+116,Milwaukee Bucks,15,2025-11-11T01:30Z,401810058,114,Dallas Mavericks,6,Final
+98,New Orleans Pelicans,3,2025-11-11T02:00Z,401810059,121,Phoenix Suns,21,Final
+120,Minnesota Timberwolves,16,2025-11-11T02:00Z,401810060,113,Utah Jazz,26,Final
+105,Atlanta Hawks,1,2025-11-11T03:30Z,401810061,102,LA Clippers,12,Final
+122,Houston Rockets,10,2025-11-09T20:30Z,401810046,115,Milwaukee Bucks,15,Final
+98,Brooklyn Nets,17,2025-11-09T23:00Z,401810047,134,New York Knicks,18,Final
+111,Boston Celtics,2,2025-11-09T23:00Z,401810048,107,Orlando Magic,19,Final
+114,Oklahoma City Thunder,25,2025-11-09T23:00Z,401810049,100,Memphis Grizzlies,29,Final
+111,Detroit Pistons,8,2025-11-10T00:30Z,401810050,108,Philadelphia 76ers,20,Final
+83,Indiana Pacers,11,2025-11-10T01:30Z,401810051,114,Golden State Warriors,9,Final
+144,Minnesota Timberwolves,16,2025-11-10T02:00Z,401810052,117,Sacramento Kings,23,Final
+111,Dallas Mavericks,6,2025-11-09T00:00Z,401810038,105,Washington Wizards,27,Final
+120,Toronto Raptors,28,2025-11-09T00:30Z,401810039,130,Philadelphia 76ers,20,Final
+102,Los Angeles Lakers,13,2025-11-09T01:00Z,401810040,122,Atlanta Hawks,1,Final
+122,Chicago Bulls,4,2025-11-09T01:00Z,401810041,128,Cleveland Cavaliers,5,Final
+131,Portland Trail Blazers,22,2025-11-09T01:00Z,401810042,136,Miami Heat,14,Final
+119,New Orleans Pelicans,3,2025-11-09T01:00Z,401810043,126,San Antonio Spurs,24,Final
+100,Indiana Pacers,11,2025-11-09T02:00Z,401810044,117,Denver Nuggets,7,Final
+114,Phoenix Suns,21,2025-11-09T03:30Z,401810045,103,LA Clippers,12,Final
+110,Boston Celtics,2,2025-11-08T00:00Z,401809510,123,Orlando Magic,19,Final
+148,Cleveland Cavaliers,5,2025-11-08T00:00Z,401809511,115,Washington Wizards,27,Final
+109,Toronto Raptors,28,2025-11-08T00:30Z,401809512,97,Atlanta Hawks,1,Final
+125,Detroit Pistons,8,2025-11-08T00:30Z,401809773,107,Brooklyn Nets,17,Final
+110,Houston Rockets,10,2025-11-08T00:30Z,401809774,121,San Antonio Spurs,24,Final
+108,Charlotte Hornets,30,2025-11-08T01:00Z,401809775,126,Miami Heat,14,Final
+104,Dallas Mavericks,6,2025-11-08T01:00Z,401809776,118,Memphis Grizzlies,29,Final
+110,Chicago Bulls,4,2025-11-08T01:00Z,401809777,126,Milwaukee Bucks,15,Final
+97,Utah Jazz,26,2025-11-08T01:00Z,401809778,137,Minnesota Timberwolves,16,Final
+104,Golden State Warriors,9,2025-11-08T03:00Z,401809779,129,Denver Nuggets,7,Final
+132,Oklahoma City Thunder,25,2025-11-08T03:00Z,401809780,101,Sacramento Kings,23,Final
+102,LA Clippers,12,2025-11-07T02:00Z,401810037,115,Phoenix Suns,21,Final
