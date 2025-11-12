@@ -16,7 +16,7 @@ away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_i
 100,Boston Celtics,2,2025-11-12T01:00Z,401810064,102,Philadelphia 76ers,20,Final
 102,Golden State Warriors,9,2025-11-12T01:00Z,401810065,126,Oklahoma City Thunder,25,Final
 128,Indiana Pacers,11,2025-11-12T02:00Z,401810066,152,Utah Jazz,26,Final
-78,Denver Nuggets,7,2025-11-12T04:00Z,401810067,72,Sacramento Kings,23,In Progress
+122,Denver Nuggets,7,2025-11-12T04:00Z,401810067,108,Sacramento Kings,23,Final
 121,Los Angeles Lakers,13,2025-11-11T00:00Z,401810053,111,Charlotte Hornets,30,Final
 135,Washington Wizards,27,2025-11-11T00:00Z,401810054,137,Detroit Pistons,8,Final
 112,Portland Trail Blazers,22,2025-11-11T00:00Z,401810055,115,Orlando Magic,19,Final

@@ -11,7 +11,7 @@ away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_i
 2,San Jose Sharks,18,2025-11-12T01:00Z,401802612,1,Minnesota Wild,30,Final
 1,Anaheim Ducks,25,2025-11-12T02:30Z,401802613,4,Colorado Avalanche,17,Final
 5,Winnipeg Jets,28,2025-11-12T03:00Z,401802614,3,Vancouver Canucks,22,Final
-1,Columbus Blue Jackets,29,2025-11-12T03:00Z,401802615,1,Seattle Kraken,124292,In Progress
+2,Columbus Blue Jackets,29,2025-11-12T03:00Z,401802615,1,Seattle Kraken,124292,Final
 3,New York Islanders,12,2025-11-11T00:00Z,401802603,2,New Jersey Devils,11,Final
 3,Nashville Predators,27,2025-11-11T00:00Z,401802604,6,New York Rangers,13,Final
 4,Columbus Blue Jackets,29,2025-11-11T01:30Z,401802605,5,Edmonton Oilers,6,Final

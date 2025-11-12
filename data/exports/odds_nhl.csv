@@ -1,1 +1,5 @@
-league,game_id,book,home_team,away_team,moneyline_home,moneyline_away,spread,total,updated_at
+away_team,away_team_norm,book,commence_time,game_id,home_team,home_team_norm,league,moneyline_away,moneyline_home,updated_at
+New York Rangers,rangers,draftkings,2025-11-13T00:10:00Z,265401d91ea4878083b542bd92770478,Tampa Bay Lightning,tampa bay lightning,nhl,130,-155,2025-11-12T06:47:21.887707+00:00
+Edmonton Oilers,edmonton oilers,draftkings,2025-11-13T00:40:00Z,84b928c9d08c81782c3e1bf824ddc08b,Philadelphia Flyers,philadelphia flyers,nhl,-135,114,2025-11-12T06:47:21.887795+00:00
+Buffalo Sabres,buffalo sabres,draftkings,2025-11-13T02:10:00Z,9ec17f7cb031ec7adff10a509d2091d8,Utah Mammoth,utah mammoth,nhl,154,-185,2025-11-12T06:47:21.887852+00:00
+New Jersey Devils,jersey devils,draftkings,2025-11-13T02:40:00Z,d157c598c8eb80037d6fec9dc7370f51,Chicago Blackhawks,chicago blackhawks,nhl,-155,130,2025-11-12T06:47:21.887907+00:00
