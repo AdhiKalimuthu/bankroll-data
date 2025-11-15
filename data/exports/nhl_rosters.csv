@@ -68,6 +68,7 @@ BUF,8477949,{'default': 'Alex'} {'default': 'Tuch'},R,R,76,219,1996-05-10
 BUF,8475722,{'default': 'Jason'} {'default': 'Zucker'},L,L,71,198,1992-01-16
 BUF,8480196,{'default': 'Jacob'} {'default': 'Bryson'},D,L,69,177,1997-11-18
 BUF,8481524,{'default': 'Bowen'} {'default': 'Byram'},D,L,73,205,2001-06-13
+BUF,8480839,{'default': 'Rasmus'} {'default': 'Dahlin'},D,L,75,204,2000-04-13
 BUF,8480891,{'default': 'Michael'} {'default': 'Kesselring'},D,R,77,215,2000-01-13
 BUF,8482671,{'default': 'Owen'} {'default': 'Power'},D,L,78,226,2002-11-22
 BUF,8480807,{'default': 'Mattias'} {'default': 'Samuelsson'},D,L,76,229,2000-03-14
@@ -84,11 +85,11 @@ CAR,8476873,{'default': 'Mark'} {'default': 'Jankowski'},L,L,76,200,1994-09-13
 CAR,8482093,{'default': 'Seth'} {'default': 'Jarvis'},C,R,70,180,2002-02-01
 CAR,8480829,{'default': 'Jesperi'} {'default': 'Kotkaniemi'},C,L,75,212,2000-07-06
 CAR,8476921,{'default': 'Jordan'} {'default': 'Martinook'},L,L,73,208,1992-07-25
+CAR,8484203,{'default': 'Bradly'} {'default': 'Nadeau'},L,R,71,180,2005-05-05
 CAR,8480762,{'default': 'Eric'} {'default': 'Robinson'},L,L,74,220,1995-06-14
 CAR,8473533,{'default': 'Jordan'} {'default': 'Staal'},C,L,76,220,1988-09-10
 CAR,8482702,{'default': 'Logan'} {'default': 'Stankoven'},C,R,68,165,2003-02-26
 CAR,8480830,"{'default': 'Andrei', 'cs': 'Andrej', 'sk': 'Andrej'} {'default': 'Svechnikov', 'cs': 'Svečnikov', 'fi': 'Svetshnikov', 'sk': 'Svečnikov'}",R,L,75,200,2000-03-26
-CAR,8479945,{'default': 'Gavin'} {'default': 'Bayreuther'},D,L,74,210,1994-05-12
 CAR,8478970,{'default': 'Jalen'} {'default': 'Chatfield'},D,R,73,209,1996-05-15
 CAR,8476906,{'default': 'Shayne'} {'default': 'Gostisbehere'},D,L,71,183,1993-04-20
 CAR,8484428,{'default': 'Charles Alexis'} {'default': 'Legault'},D,R,76,220,2003-09-05
@@ -265,7 +266,6 @@ EDM,8480834,{'default': 'Ty'} {'default': 'Emberson'},D,R,72,193,2000-05-23
 EDM,8476967,{'default': 'Brett'} {'default': 'Kulak'},D,L,74,192,1994-01-06
 EDM,8477498,{'default': 'Darnell'} {'default': 'Nurse'},D,L,76,215,1995-02-04
 EDM,8480831,{'default': 'Alec'} {'default': 'Regula'},D,R,76,211,2000-08-06
-EDM,8479442,{'default': 'Troy'} {'default': 'Stecher'},D,R,70,184,1994-04-07
 EDM,8478013,{'default': 'Jake'} {'default': 'Walman'},D,L,73,218,1996-02-20
 EDM,8475717,{'default': 'Calvin'} {'default': 'Pickard'},G,L,73,206,1992-04-15
 EDM,8479973,{'default': 'Stuart'} {'default': 'Skinner'},G,L,76,215,1998-11-01
@@ -340,7 +340,6 @@ MIN,8482122,{'default': 'Brock'} {'default': 'Faber'},D,R,73,200,2002-08-22
 MIN,8482094,{'default': 'Daemon'} {'default': 'Hunt'},D,L,73,193,2002-05-15
 MIN,8483460,"{'default': 'David'} {'default': 'Jiricek', 'cs': 'Jiříček', 'sk': 'Jiříček'}",D,R,76,204,2003-11-28
 MIN,8478136,"{'default': 'Jake', 'cs': 'Jacob', 'de': 'Jacob', 'es': 'Jacob', 'fi': 'Jacob', 'sk': 'Jacob', 'sv': 'Jacob'} {'default': 'Middleton'}",D,L,75,219,1996-01-02
-MIN,8483766,{'default': 'David'} {'default': 'Spacek'},D,R,72,174,2003-02-18
 MIN,8474716,{'default': 'Jared'} {'default': 'Spurgeon'},D,R,69,166,1989-11-29
 MIN,8479406,{'default': 'Filip'} {'default': 'Gustavsson'},G,L,74,184,1998-06-07
 MIN,8482661,{'default': 'Jesper'} {'default': 'Wallstedt'},G,L,75,214,2002-11-14
@@ -436,7 +435,7 @@ NYI,8484958,"{'default': 'Maxim', 'fi': 'Maksim'} {'default': 'Tsyplakov', 'cs':
 NYI,8478451,{'default': 'Ethan'} {'default': 'Bear'},D,R,71,219,1997-06-26
 NYI,8480871,{'default': 'Adam'} {'default': 'Boqvist'},D,R,72,195,2000-08-15
 NYI,8477950,{'default': 'Tony'} {'default': 'DeAngelo'},D,R,72,190,1995-10-24
-NYI,8484262,{'default': 'Travis'} {'default': 'Mitchell'},D,L,76,203,1999-11-25
+NYI,8476429,{'default': 'Scott'} {'default': 'Mayfield'},D,R,76,215,1992-10-14
 NYI,8476917,{'default': 'Adam'} {'default': 'Pelech'},D,L,75,212,1994-08-16
 NYI,8477506,{'default': 'Ryan'} {'default': 'Pulock'},D,R,73,219,1994-10-06
 NYI,8481014,"{'default': 'Alexander', 'cs': 'Alexandr', 'fi': 'Aleksander', 'sk': 'Alexandr'} {'default': 'Romanov'}",D,L,73,220,2000-01-06
@@ -668,6 +667,7 @@ TOR,8476931,{'default': 'Jake'} {'default': 'McCabe'},D,L,73,210,1993-10-12
 TOR,8477541,{'default': 'Dakota'} {'default': 'Mermis'},D,L,72,197,1994-01-05
 TOR,8479026,{'default': 'Philippe'} {'default': 'Myers'},D,R,77,221,1997-01-25
 TOR,8476853,{'default': 'Morgan'} {'default': 'Rielly'},D,L,73,219,1994-03-09
+TOR,8479442,{'default': 'Troy'} {'default': 'Stecher'},D,R,70,184,1994-04-07
 TOR,8475690,"{'default': 'Chris', 'cs': 'Christopher', 'de': 'Christopher', 'es': 'Christopher', 'fi': 'Christopher', 'sk': 'Christopher', 'sv': 'Christopher'} {'default': 'Tanev'}",D,R,75,200,1989-12-20
 TOR,8483710,{'default': 'Dennis'} {'default': 'Hildeby'},G,L,79,231,2001-08-19
 TOR,8476932,{'default': 'Anthony'} {'default': 'Stolarz'},G,L,78,248,1994-01-20
@@ -746,6 +746,7 @@ VGK,8478468,{'default': 'Jeremy'} {'default': 'Lauzon'},D,L,75,225,1997-04-28
 VGK,8475188,{'default': 'Brayden'} {'default': 'McNabb'},D,L,76,215,1991-01-21
 VGK,8477447,{'default': 'Shea'} {'default': 'Theodore'},D,L,74,197,1995-08-03
 VGK,8480727,{'default': 'Zach'} {'default': 'Whitecloud'},D,R,74,210,1996-11-28
+VGK,8479394,{'default': 'Carter'} {'default': 'Hart'},G,L,74,196,1998-08-13
 VGK,8478499,{'default': 'Adin'} {'default': 'Hill'},G,L,76,222,1996-05-11
 VGK,8482761,{'default': 'Carl'} {'default': 'Lindbom'},G,L,73,186,2003-05-20
 VGK,8481033,{'default': 'Akira'} {'default': 'Schmid'},G,L,77,190,2000-05-12
