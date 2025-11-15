@@ -1,16 +1,16 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Milwaukee Bucks,15,2025-11-13T00:00Z,401810068,0,Charlotte Hornets,30,Scheduled
-0,Chicago Bulls,4,2025-11-13T00:00Z,401810069,0,Detroit Pistons,8,Scheduled
-0,Orlando Magic,19,2025-11-13T00:00Z,401810070,0,New York Knicks,18,Scheduled
-0,Memphis Grizzlies,29,2025-11-13T00:30Z,401810071,0,Boston Celtics,2,Scheduled
-0,Cleveland Cavaliers,5,2025-11-13T00:30Z,401810072,0,Miami Heat,14,Scheduled
-0,Washington Wizards,27,2025-11-13T01:00Z,401810073,0,Houston Rockets,10,Scheduled
-0,Portland Trail Blazers,22,2025-11-13T01:00Z,401810074,0,New Orleans Pelicans,3,Scheduled
-0,Golden State Warriors,9,2025-11-13T01:00Z,401810075,0,San Antonio Spurs,24,Scheduled
-0,Phoenix Suns,21,2025-11-13T01:30Z,401810076,0,Dallas Mavericks,6,Scheduled
-0,Los Angeles Lakers,13,2025-11-13T02:30Z,401810077,0,Oklahoma City Thunder,25,Scheduled
-0,Atlanta Hawks,1,2025-11-13T03:00Z,401810078,0,Sacramento Kings,23,Scheduled
-0,Denver Nuggets,7,2025-11-13T03:30Z,401810079,0,LA Clippers,12,Scheduled
+100,Milwaukee Bucks,15,2025-11-13T00:00Z,401810068,111,Charlotte Hornets,30,Final
+113,Chicago Bulls,4,2025-11-13T00:00Z,401810069,124,Detroit Pistons,8,Final
+124,Orlando Magic,19,2025-11-13T00:00Z,401810070,107,New York Knicks,18,Final
+95,Memphis Grizzlies,29,2025-11-13T00:30Z,401810071,131,Boston Celtics,2,Final
+130,Cleveland Cavaliers,5,2025-11-13T00:30Z,401810072,116,Miami Heat,14,Final
+112,Washington Wizards,27,2025-11-13T01:00Z,401810073,135,Houston Rockets,10,Final
+125,Portland Trail Blazers,22,2025-11-13T01:00Z,401810074,117,New Orleans Pelicans,3,Final
+125,Golden State Warriors,9,2025-11-13T01:00Z,401810075,120,San Antonio Spurs,24,Final
+123,Phoenix Suns,21,2025-11-13T01:30Z,401810076,114,Dallas Mavericks,6,Final
+92,Los Angeles Lakers,13,2025-11-13T02:47Z,401810077,121,Oklahoma City Thunder,25,Final
+133,Atlanta Hawks,1,2025-11-13T03:00Z,401810078,100,Sacramento Kings,23,Final
+130,Denver Nuggets,7,2025-11-13T03:30Z,401810079,116,LA Clippers,12,Final
 119,Toronto Raptors,28,2025-11-12T00:30Z,401810062,109,Brooklyn Nets,17,Final
 120,Memphis Grizzlies,29,2025-11-12T00:30Z,401810063,133,New York Knicks,18,Final
 100,Boston Celtics,2,2025-11-12T01:00Z,401810064,102,Philadelphia 76ers,20,Final
@@ -53,3 +53,6 @@ away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_i
 104,Golden State Warriors,9,2025-11-08T03:00Z,401809779,129,Denver Nuggets,7,Final
 132,Oklahoma City Thunder,25,2025-11-08T03:00Z,401809780,101,Sacramento Kings,23,Final
 102,LA Clippers,12,2025-11-07T02:00Z,401810037,115,Phoenix Suns,21,Final
+0,Toronto Raptors,28,2025-11-14T00:00Z,401810080,0,Cleveland Cavaliers,5,Scheduled
+0,Indiana Pacers,11,2025-11-14T02:00Z,401810081,0,Phoenix Suns,21,Scheduled
+0,Atlanta Hawks,1,2025-11-14T02:00Z,401810082,0,Utah Jazz,26,Scheduled

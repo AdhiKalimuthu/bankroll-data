@@ -1,5 +1,14 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,New York Rangers,13,2025-11-13T00:00Z,401802616,0,Tampa Bay Lightning,20,Scheduled
-0,Edmonton Oilers,6,2025-11-13T00:30Z,401802617,0,Philadelphia Flyers,15,Scheduled
-0,Buffalo Sabres,2,2025-11-13T02:00Z,401802618,0,Utah Mammoth,129764,Scheduled
-0,New Jersey Devils,11,2025-11-13T02:30Z,401802619,0,Chicago Blackhawks,4,Scheduled
+0,Tampa Bay Lightning,20,2025-11-15T22:00Z,401802634,0,Florida Panthers,26,Scheduled
+0,Anaheim Ducks,25,2025-11-15T23:00Z,401802635,0,Minnesota Wild,30,Scheduled
+0,Boston Bruins,1,2025-11-16T00:00Z,401802636,0,Montreal Canadiens,10,Scheduled
+0,Los Angeles Kings,8,2025-11-16T00:00Z,401802637,0,Ottawa Senators,14,Scheduled
+0,Buffalo Sabres,2,2025-11-16T00:00Z,401802638,0,Detroit Red Wings,5,Scheduled
+0,New Jersey Devils,11,2025-11-16T00:00Z,401802639,0,Washington Capitals,23,Scheduled
+0,Edmonton Oilers,6,2025-11-16T00:00Z,401802640,0,Carolina Hurricanes,7,Scheduled
+0,New York Rangers,13,2025-11-16T00:00Z,401802641,0,Columbus Blue Jackets,29,Scheduled
+0,Toronto Maple Leafs,21,2025-11-16T00:00Z,401802642,0,Chicago Blackhawks,4,Scheduled
+0,Vegas Golden Knights,37,2025-11-16T01:00Z,401802643,0,St. Louis Blues,19,Scheduled
+0,Philadelphia Flyers,15,2025-11-16T01:00Z,401802644,0,Dallas Stars,9,Scheduled
+0,Winnipeg Jets,28,2025-11-16T03:00Z,401802645,0,Calgary Flames,3,Scheduled
+0,San Jose Sharks,18,2025-11-16T03:00Z,401802646,0,Seattle Kraken,124292,Scheduled

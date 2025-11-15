@@ -1,8 +1,8 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,New York Rangers,13,2025-11-13T00:00Z,401802616,0,Tampa Bay Lightning,20,Scheduled
-0,Edmonton Oilers,6,2025-11-13T00:30Z,401802617,0,Philadelphia Flyers,15,Scheduled
-0,Buffalo Sabres,2,2025-11-13T02:00Z,401802618,0,Utah Mammoth,129764,Scheduled
-0,New Jersey Devils,11,2025-11-13T02:30Z,401802619,0,Chicago Blackhawks,4,Scheduled
+7,New York Rangers,13,2025-11-13T00:00Z,401802616,3,Tampa Bay Lightning,20,Final
+2,Edmonton Oilers,6,2025-11-13T00:30Z,401802617,1,Philadelphia Flyers,15,Final
+2,Buffalo Sabres,2,2025-11-13T02:00Z,401802618,5,Utah Mammoth,129764,Final
+4,New Jersey Devils,11,2025-11-13T02:30Z,401802619,3,Chicago Blackhawks,4,Final
 3,Toronto Maple Leafs,21,2025-11-12T00:00Z,401802607,5,Boston Bruins,1,Final
 5,Los Angeles Kings,8,2025-11-12T00:00Z,401802608,1,Montreal Canadiens,10,Final
 3,Dallas Stars,9,2025-11-12T00:00Z,401802609,2,Ottawa Senators,14,Final
@@ -50,3 +50,13 @@ away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_i
 7,Anaheim Ducks,25,2025-11-07T01:00Z,401802575,5,Dallas Stars,9,Final
 6,Tampa Bay Lightning,20,2025-11-07T03:00Z,401802576,3,Vegas Golden Knights,37,Final
 5,Florida Panthers,26,2025-11-07T03:00Z,401802577,2,Los Angeles Kings,8,Final
+0,Los Angeles Kings,8,2025-11-14T00:00Z,401802620,0,Toronto Maple Leafs,21,Scheduled
+0,Dallas Stars,9,2025-11-14T00:00Z,401802621,0,Montreal Canadiens,10,Scheduled
+0,Boston Bruins,1,2025-11-14T00:00Z,401802622,0,Ottawa Senators,14,Scheduled
+0,Anaheim Ducks,25,2025-11-14T00:00Z,401802623,0,Detroit Red Wings,5,Scheduled
+0,Washington Capitals,23,2025-11-14T00:00Z,401802624,0,Florida Panthers,26,Scheduled
+0,Edmonton Oilers,6,2025-11-14T00:30Z,401802625,0,Columbus Blue Jackets,29,Scheduled
+0,Buffalo Sabres,2,2025-11-14T02:00Z,401802626,0,Colorado Avalanche,17,Scheduled
+0,San Jose Sharks,18,2025-11-14T02:00Z,401802627,0,Calgary Flames,3,Scheduled
+0,New York Islanders,12,2025-11-14T03:00Z,401802628,0,Vegas Golden Knights,37,Scheduled
+0,Winnipeg Jets,28,2025-11-14T03:00Z,401802629,0,Seattle Kraken,124292,Scheduled

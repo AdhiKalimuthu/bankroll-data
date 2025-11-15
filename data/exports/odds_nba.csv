@@ -1,16 +1,8 @@
 away_team,away_team_norm,book,commence_time,game_id,home_team,home_team_norm,league,moneyline_away,moneyline_home,updated_at
-Milwaukee Bucks,milwaukee bucks,draftkings,2025-11-13T00:10:00Z,9f3293867873f1f9e28d67fe3301a0fd,Charlotte Hornets,charlotte hornets,nba,-218,180,2025-11-12T11:14:04.167961+00:00
-Chicago Bulls,chicago bulls,draftkings,2025-11-13T00:10:00Z,77349df7a7d73953f39694692eef6e51,Detroit Pistons,detroit pistons,nba,114,-135,2025-11-12T11:14:04.168063+00:00
-Orlando Magic,orlando magic,draftkings,2025-11-13T00:10:00Z,8b5034a318296da7b71c659bc444df9e,New York Knicks,knicks,nba,150,-180,2025-11-12T11:14:04.168148+00:00
-Memphis Grizzlies,memphis grizzlies,draftkings,2025-11-13T00:40:00Z,059c428bc060a5272ce5a7b6771a3ceb,Boston Celtics,boston celtics,nba,210,-258,2025-11-12T11:14:04.168223+00:00
-Cleveland Cavaliers,cleveland cavaliers,draftkings,2025-11-13T00:40:00Z,599d6d0dfc057f6a643eca118d8a87a4,Miami Heat,miami heat,nba,185,-225,2025-11-12T11:14:04.168315+00:00
-Golden State Warriors,golden state warriors,draftkings,2025-11-13T01:10:00Z,32773ff9ab98d08e5e876d281599d696,San Antonio Spurs,antonio spurs,nba,164,-198,2025-11-12T11:14:04.168401+00:00
-Washington Wizards,washington wizards,draftkings,2025-11-13T01:10:00Z,cd62575c8246f92d081feba8f01addcf,Houston Rockets,houston rockets,nba,900,-1600,2025-11-12T11:14:04.168473+00:00
-Portland Trail Blazers,portland trail blazers,draftkings,2025-11-13T01:10:00Z,26cc3cb8ab41744f98362d3f18a9869d,New Orleans Pelicans,orleans pelicans,nba,-340,270,2025-11-12T11:14:04.168554+00:00
-Phoenix Suns,phoenix suns,draftkings,2025-11-13T01:40:00Z,0323223bc8d4e97d8d2e6cec15816e58,Dallas Mavericks,dallas mavericks,nba,-110,-110,2025-11-12T11:14:04.168625+00:00
-Los Angeles Lakers,lakers,draftkings,2025-11-13T02:40:00Z,1486b350f051e9869429f2985a7ef2d0,Oklahoma City Thunder,oklahoma thunder,nba,225,-278,2025-11-12T11:14:04.168706+00:00
-Atlanta Hawks,atlanta hawks,draftkings,2025-11-13T03:10:00Z,f8a89fe8b901db77b42bf0af6534e52d,Sacramento Kings,sacramento kings,nba,-162,136,2025-11-12T11:14:04.168777+00:00
-Denver Nuggets,denver nuggets,draftkings,2025-11-13T03:40:00Z,0f7d4c705cff031299459d2240144e76,Los Angeles Clippers,clippers,nba,-148,124,2025-11-12T11:14:04.168852+00:00
-Cleveland Cavaliers,cleveland cavaliers,betrivers,2025-12-25T17:00:00Z,f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,knicks,nba,117,-143,2025-11-12T11:14:04.168932+00:00
-Dallas Mavericks,dallas mavericks,betrivers,2025-12-25T22:00:00Z,9010f7d8f26d5880c63b67355800f997,Golden State Warriors,golden state warriors,nba,150,-195,2025-11-12T11:14:04.169012+00:00
-Minnesota Timberwolves,minnesota timberwolves,betrivers,2025-12-26T03:30:00Z,6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,denver nuggets,nba,175,-220,2025-11-12T11:14:04.169091+00:00
+Toronto Raptors,toronto raptors,draftkings,2025-11-14T00:10:00Z,79db13d01456b1f6d86ba8c25c83c765,Cleveland Cavaliers,cleveland cavaliers,nba,235,-290,2025-11-13T06:47:23.502778+00:00
+Atlanta Hawks,atlanta hawks,draftkings,2025-11-14T02:10:00Z,71660f977b7bf30f2a30794e936a3f61,Utah Jazz,utah jazz,nba,-130,110,2025-11-13T06:47:23.502813+00:00
+Indiana Pacers,indiana pacers,draftkings,2025-11-14T02:10:00Z,e11cbb23685bc3bd5b4336ec7e390531,Phoenix Suns,phoenix suns,nba,160,-192,2025-11-13T06:47:23.502839+00:00
+Golden State Warriors,golden state warriors,draftkings,2025-11-15T02:40:00Z,46fc9b98835561f7bfa81c7275b3ed37,San Antonio Spurs,antonio spurs,nba,114,-135,2025-11-13T06:47:23.502864+00:00
+Cleveland Cavaliers,cleveland cavaliers,betrivers,2025-12-25T17:00:00Z,f557c9173a46a3c7c87afb4bd68f6644,New York Knicks,knicks,nba,117,-143,2025-11-13T06:47:23.502892+00:00
+Dallas Mavericks,dallas mavericks,betrivers,2025-12-25T22:00:00Z,9010f7d8f26d5880c63b67355800f997,Golden State Warriors,golden state warriors,nba,150,-195,2025-11-13T06:47:23.502922+00:00
+Minnesota Timberwolves,minnesota timberwolves,betrivers,2025-12-26T03:30:00Z,6b9d46fb1b22af30b771b5f6b8a4c6f8,Denver Nuggets,denver nuggets,nba,175,-220,2025-11-13T06:47:23.502947+00:00
