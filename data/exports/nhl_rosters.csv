@@ -85,7 +85,6 @@ CAR,8476873,{'default': 'Mark'} {'default': 'Jankowski'},L,L,76,200,1994-09-13
 CAR,8482093,{'default': 'Seth'} {'default': 'Jarvis'},C,R,70,180,2002-02-01
 CAR,8480829,{'default': 'Jesperi'} {'default': 'Kotkaniemi'},C,L,75,212,2000-07-06
 CAR,8476921,{'default': 'Jordan'} {'default': 'Martinook'},L,L,73,208,1992-07-25
-CAR,8484203,{'default': 'Bradly'} {'default': 'Nadeau'},L,R,71,180,2005-05-05
 CAR,8480762,{'default': 'Eric'} {'default': 'Robinson'},L,L,74,220,1995-06-14
 CAR,8473533,{'default': 'Jordan'} {'default': 'Staal'},C,L,76,220,1988-09-10
 CAR,8482702,{'default': 'Logan'} {'default': 'Stankoven'},C,R,68,165,2003-02-26
@@ -355,6 +354,7 @@ MTL,8475848,{'default': 'Brendan'} {'default': 'Gallagher'},R,R,69,185,1992-05-0
 MTL,8482775,{'default': 'Oliver'} {'default': 'Kapanen'},C,R,74,194,2003-07-29
 MTL,8479339,{'default': 'Patrik'} {'default': 'Laine'},R,R,76,208,1998-04-19
 MTL,8481618,{'default': 'Alex'} {'default': 'Newhook'},C,L,71,200,2001-01-28
+MTL,8482749,{'default': 'Joshua'} {'default': 'Roy'},R,L,72,192,2003-08-06
 MTL,8483515,{'default': 'Juraj'} {'default': 'Slafkovský'},L,L,75,225,2004-03-30
 MTL,8480018,{'default': 'Nick'} {'default': 'Suzuki'},C,R,71,207,1999-08-10
 MTL,8480813,"{'default': 'Joe', 'cs': 'Joseph', 'de': 'Joseph', 'es': 'Joseph', 'fi': 'Joseph', 'sk': 'Joseph', 'sv': 'Joseph'} {'default': 'Veleno'}",C,L,73,201,2000-01-13
@@ -633,7 +633,6 @@ TBL,8483752,{'default': 'Dominic'} {'default': 'James'},C,L,72,190,2002-07-03
 TBL,8479383,{'default': 'Boris'} {'default': 'Katchouk'},L,L,74,212,1998-06-18
 TBL,8476453,"{'default': 'Nikita'} {'default': 'Kucherov', 'cs': 'Kučerov', 'fi': 'Kutsherov', 'sk': 'Kučerov'}",R,L,72,173,1993-06-17
 TBL,8477426,{'default': 'Nick'} {'default': 'Paul'},L,L,76,234,1995-03-20
-TBL,8481592,{'default': 'Jakob'} {'default': 'Pelletier'},L,L,70,172,2001-03-07
 TBL,8478010,{'default': 'Brayden'} {'default': 'Point'},C,R,71,177,1996-03-13
 TBL,8477149,{'default': 'Scott'} {'default': 'Sabourin'},R,R,75,205,1992-07-30
 TBL,8478416,"{'default': 'Erik'} {'default': 'Cernak', 'cs': 'Černák', 'sk': 'Černák'}",D,R,76,230,1997-05-28
@@ -683,6 +682,7 @@ UTA,8477021,"{'default': 'Alexander', 'fr': 'Alex'} {'default': 'Kerfoot'}",C,L,
 UTA,8480855,{'default': 'Jack'} {'default': 'McBain'},C,L,76,219,2000-01-06
 UTA,8477070,"{'default': 'Liam'} {'default': ""O'Brien""}",C,L,73,215,1994-07-29
 UTA,8482175,{'default': 'JJ'} {'default': 'Peterka'},R,L,72,189,2002-01-14
+UTA,8479291,{'default': 'Kevin'} {'default': 'Rooney'},C,L,74,190,1993-05-21
 UTA,8477951,{'default': 'Nick'} {'default': 'Schmaltz'},C,R,72,184,1996-02-23
 UTA,8478831,{'default': 'Kevin'} {'default': 'Stenlund'},C,R,75,213,1996-09-20
 UTA,8479293,{'default': 'Brandon'} {'default': 'Tanev'},L,L,72,189,1991-12-31

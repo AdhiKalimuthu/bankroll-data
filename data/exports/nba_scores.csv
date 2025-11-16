@@ -1,6 +1,6 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,LA Clippers,12,2025-11-16T20:30Z,401810088,0,Boston Celtics,2,Scheduled
-0,Sacramento Kings,23,2025-11-16T21:00Z,401810089,0,San Antonio Spurs,24,Scheduled
+55,LA Clippers,12,2025-11-16T20:30Z,401810088,79,Boston Celtics,2,In Progress
+57,Sacramento Kings,23,2025-11-16T21:00Z,401810089,65,San Antonio Spurs,24,In Progress
 0,Brooklyn Nets,17,2025-11-16T23:00Z,401810090,0,Washington Wizards,27,Scheduled
 0,Orlando Magic,19,2025-11-17T00:00Z,401810091,0,Houston Rockets,10,Scheduled
 0,Golden State Warriors,9,2025-11-17T00:00Z,401810092,0,New Orleans Pelicans,3,Scheduled
