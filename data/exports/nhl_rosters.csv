@@ -182,6 +182,7 @@ COL,8481641,{'default': 'Joel'} {'default': 'Kiviranta'},L,L,71,185,1996-03-23
 COL,8476455,{'default': 'Gabriel'} {'default': 'Landeskog'},L,L,73,215,1992-11-23
 COL,8477476,{'default': 'Artturi'} {'default': 'Lehkonen'},L,L,71,179,1995-07-04
 COL,8477492,{'default': 'Nathan'} {'default': 'MacKinnon'},C,R,72,200,1995-09-01
+COL,8482953,{'default': 'Taylor'} {'default': 'Makar'},L,L,75,190,2001-03-13
 COL,8480039,"{'default': 'Martin'} {'default': 'Necas', 'cs': 'Nečas', 'sk': 'Nečas'}",C,R,75,195,1999-01-15
 COL,8475754,{'default': 'Brock'} {'default': 'Nelson'},C,L,76,205,1991-10-15
 COL,8477501,"{'default': 'Valeri', 'cs': 'Valerij', 'sk': 'Valerij'} {'default': 'Nichushkin', 'cs': 'Ničuškin', 'fi': 'Nitshushkin', 'sk': 'Ničuškin'}",R,L,76,210,1995-03-04
@@ -452,7 +453,6 @@ NYR,8482109,{'default': 'Alexis'} {'default': 'Lafrenière'},L,L,74,191,2001-10-
 NYR,8476468,{'default': 'J.T.'} {'default': 'Miller'},C,L,72,211,1993-03-14
 NYR,8478550,"{'default': 'Artemi', 'cs': 'Artěmij', 'sk': 'Artemij'} {'default': 'Panarin'}",L,R,72,176,1991-10-30
 NYR,8481704,"{'default': 'Juuso'} {'default': 'Parssinen', 'cs': 'Pärssinen', 'fi': 'Pärssinen', 'sk': 'Pärssinen', 'sv': 'Pärssinen'}",C,L,75,207,2001-02-01
-NYR,8484210,{'default': 'Gabe'} {'default': 'Perreault'},R,L,71,180,2005-05-07
 NYR,8479390,{'default': 'Taylor'} {'default': 'Raddysh'},R,R,74,201,1998-02-18
 NYR,8482460,{'default': 'Matt'} {'default': 'Rempe'},C,R,81,261,2002-06-29
 NYR,8477839,{'default': 'Conor'} {'default': 'Sheary'},L,L,68,180,1992-06-08
@@ -461,6 +461,7 @@ NYR,8476459,{'default': 'Mika'} {'default': 'Zibanejad'},C,R,74,208,1993-04-18
 NYR,8478840,"{'default': 'Will', 'cs': 'William', 'de': 'William', 'es': 'William', 'fi': 'William', 'sk': 'William', 'sv': 'William'} {'default': 'Borgen'}",D,R,75,199,1996-12-19
 NYR,8479323,{'default': 'Adam'} {'default': 'Fox'},D,R,71,185,1998-02-17
 NYR,8478882,{'default': 'Vladislav'} {'default': 'Gavrikov'},D,L,75,210,1995-11-21
+NYR,8482666,{'default': 'Scott'} {'default': 'Morrow'},D,R,74,210,2002-11-01
 NYR,8481525,{'default': 'Matthew'} {'default': 'Robertson'},D,L,76,210,2001-03-09
 NYR,8482073,{'default': 'Braden'} {'default': 'Schneider'},D,R,75,206,2001-09-20
 NYR,8477369,{'default': 'Carson'} {'default': 'Soucy'},D,L,76,211,1994-07-27

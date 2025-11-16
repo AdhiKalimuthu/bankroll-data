@@ -1,6 +1,9 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Memphis Grizzlies,29,2025-11-15T22:00Z,401810083,0,Cleveland Cavaliers,5,Scheduled
-0,Oklahoma City Thunder,25,2025-11-16T00:00Z,401810084,0,Charlotte Hornets,30,Scheduled
-0,Toronto Raptors,28,2025-11-16T00:00Z,401810085,0,Indiana Pacers,11,Scheduled
-0,Los Angeles Lakers,13,2025-11-16T01:00Z,401810086,0,Milwaukee Bucks,15,Scheduled
-0,Denver Nuggets,7,2025-11-16T01:00Z,401810087,0,Minnesota Timberwolves,16,Scheduled
+0,LA Clippers,12,2025-11-16T20:30Z,401810088,0,Boston Celtics,2,Scheduled
+0,Sacramento Kings,23,2025-11-16T21:00Z,401810089,0,San Antonio Spurs,24,Scheduled
+0,Brooklyn Nets,17,2025-11-16T23:00Z,401810090,0,Washington Wizards,27,Scheduled
+0,Orlando Magic,19,2025-11-17T00:00Z,401810091,0,Houston Rockets,10,Scheduled
+0,Golden State Warriors,9,2025-11-17T00:00Z,401810092,0,New Orleans Pelicans,3,Scheduled
+0,Portland Trail Blazers,22,2025-11-17T00:30Z,401810093,0,Dallas Mavericks,6,Scheduled
+0,Atlanta Hawks,1,2025-11-17T01:00Z,401810094,0,Phoenix Suns,21,Scheduled
+0,Chicago Bulls,4,2025-11-17T01:00Z,401810095,0,Utah Jazz,26,Scheduled
