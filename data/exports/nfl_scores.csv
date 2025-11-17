@@ -1,14 +1,2 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-6,Seattle Seahawks,26,2025-11-16T21:05Z,401772884,14,Los Angeles Rams,14,In Progress
-19,San Francisco 49ers,25,2025-11-16T21:05Z,401772885,7,Arizona Cardinals,22,In Progress
-3,Baltimore Ravens,33,2025-11-16T21:25Z,401772777,3,Cleveland Browns,5,In Progress
-3,Kansas City Chiefs,12,2025-11-16T21:25Z,401772778,6,Denver Broncos,7,In Progress
-13,Washington Commanders,28,2025-11-16T14:30Z,401772631,16,Miami Dolphins,15,Final
-30,Carolina Panthers,29,2025-11-16T18:00Z,401772882,27,Atlanta Falcons,1,Final
-32,Tampa Bay Buccaneers,27,2025-11-16T18:00Z,401772776,44,Buffalo Bills,2,Final
-16,Houston Texans,34,2025-11-16T18:00Z,401772881,13,Tennessee Titans,10,Final
-19,Chicago Bears,3,2025-11-16T18:00Z,401772880,17,Minnesota Vikings,16,Final
-27,Green Bay Packers,9,2025-11-16T18:00Z,401772883,20,New York Giants,19,Final
-12,Cincinnati Bengals,4,2025-11-16T18:00Z,401772774,34,Pittsburgh Steelers,23,Final
-6,Los Angeles Chargers,24,2025-11-16T18:00Z,401772775,35,Jacksonville Jaguars,30,Final
-0,Detroit Lions,8,2025-11-17T01:20Z,401772928,0,Philadelphia Eagles,21,Scheduled
+0,Dallas Cowboys,6,2025-11-18T01:15Z,401772819,0,Las Vegas Raiders,13,Scheduled

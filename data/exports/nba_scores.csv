@@ -1,9 +1,9 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-55,LA Clippers,12,2025-11-16T20:30Z,401810088,79,Boston Celtics,2,In Progress
-57,Sacramento Kings,23,2025-11-16T21:00Z,401810089,65,San Antonio Spurs,24,In Progress
-0,Brooklyn Nets,17,2025-11-16T23:00Z,401810090,0,Washington Wizards,27,Scheduled
-0,Orlando Magic,19,2025-11-17T00:00Z,401810091,0,Houston Rockets,10,Scheduled
-0,Golden State Warriors,9,2025-11-17T00:00Z,401810092,0,New Orleans Pelicans,3,Scheduled
-0,Portland Trail Blazers,22,2025-11-17T00:30Z,401810093,0,Dallas Mavericks,6,Scheduled
-0,Atlanta Hawks,1,2025-11-17T01:00Z,401810094,0,Phoenix Suns,21,Scheduled
-0,Chicago Bulls,4,2025-11-17T01:00Z,401810095,0,Utah Jazz,26,Scheduled
+0,Milwaukee Bucks,15,2025-11-18T00:00Z,401810096,0,Cleveland Cavaliers,5,Scheduled
+0,Indiana Pacers,11,2025-11-18T00:00Z,401810097,0,Detroit Pistons,8,Scheduled
+0,LA Clippers,12,2025-11-18T00:00Z,401810098,0,Philadelphia 76ers,20,Scheduled
+0,New York Knicks,18,2025-11-18T00:30Z,401810099,0,Miami Heat,14,Scheduled
+0,Charlotte Hornets,30,2025-11-18T00:30Z,401810100,0,Toronto Raptors,28,Scheduled
+0,Dallas Mavericks,6,2025-11-18T01:00Z,401810101,0,Minnesota Timberwolves,16,Scheduled
+0,Oklahoma City Thunder,25,2025-11-18T01:00Z,401810102,0,New Orleans Pelicans,3,Scheduled
+0,Chicago Bulls,4,2025-11-18T02:00Z,401810103,0,Denver Nuggets,7,Scheduled
