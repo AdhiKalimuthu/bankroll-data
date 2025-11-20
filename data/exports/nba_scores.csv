@@ -1,7 +1,5 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Golden State Warriors,9,2025-11-19T00:00Z,401810104,0,Orlando Magic,19,Scheduled
-0,Boston Celtics,2,2025-11-19T00:30Z,401810105,0,Brooklyn Nets,17,Scheduled
-0,Detroit Pistons,8,2025-11-19T00:30Z,401810106,0,Atlanta Hawks,1,Scheduled
-0,Memphis Grizzlies,29,2025-11-19T01:00Z,401810107,0,San Antonio Spurs,24,Scheduled
-0,Utah Jazz,26,2025-11-19T03:30Z,401810108,0,Los Angeles Lakers,13,Scheduled
-0,Phoenix Suns,21,2025-11-19T04:00Z,401810109,0,Portland Trail Blazers,22,Scheduled
+0,LA Clippers,12,2025-11-21T00:00Z,401810119,0,Orlando Magic,19,Scheduled
+0,Sacramento Kings,23,2025-11-21T01:00Z,401810120,0,Memphis Grizzlies,29,Scheduled
+0,Philadelphia 76ers,20,2025-11-21T01:00Z,401810121,0,Milwaukee Bucks,15,Scheduled
+0,Atlanta Hawks,1,2025-11-21T01:00Z,401810122,0,San Antonio Spurs,24,Scheduled
