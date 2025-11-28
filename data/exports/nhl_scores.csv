@@ -1,14 +1,14 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Tampa Bay Lightning,20,2025-11-28T17:00Z,401802728,0,Detroit Red Wings,5,Scheduled
-0,New York Rangers,13,2025-11-28T18:00Z,401802727,0,Boston Bruins,1,Scheduled
-0,Colorado Avalanche,17,2025-11-28T20:30Z,401802729,0,Minnesota Wild,30,Scheduled
-0,New Jersey Devils,11,2025-11-28T21:00Z,401802730,0,Buffalo Sabres,2,Scheduled
-0,Calgary Flames,3,2025-11-28T21:00Z,401802731,0,Florida Panthers,26,Scheduled
-0,Philadelphia Flyers,15,2025-11-28T21:00Z,401802732,0,New York Islanders,12,Scheduled
-0,Ottawa Senators,14,2025-11-28T21:00Z,401802733,0,St. Louis Blues,19,Scheduled
-0,Montreal Canadiens,10,2025-11-28T21:00Z,401802734,0,Vegas Golden Knights,37,Scheduled
-0,Los Angeles Kings,8,2025-11-28T21:00Z,401802735,0,Anaheim Ducks,25,Scheduled
-0,Vancouver Canucks,22,2025-11-28T21:00Z,401802736,0,San Jose Sharks,18,Scheduled
+6,Tampa Bay Lightning,20,2025-11-28T17:00Z,401802728,3,Detroit Red Wings,5,Final
+6,New York Rangers,13,2025-11-28T18:00Z,401802727,2,Boston Bruins,1,Final
+1,Colorado Avalanche,17,2025-11-28T20:30Z,401802729,0,Minnesota Wild,30,In Progress
+1,New Jersey Devils,11,2025-11-28T21:00Z,401802730,0,Buffalo Sabres,2,In Progress
+2,Calgary Flames,3,2025-11-28T21:00Z,401802731,2,Florida Panthers,26,End of Period
+2,Philadelphia Flyers,15,2025-11-28T21:00Z,401802732,0,New York Islanders,12,End of Period
+0,Ottawa Senators,14,2025-11-28T21:00Z,401802733,0,St. Louis Blues,19,In Progress
+1,Montreal Canadiens,10,2025-11-28T21:00Z,401802734,0,Vegas Golden Knights,37,End of Period
+1,Los Angeles Kings,8,2025-11-28T21:00Z,401802735,0,Anaheim Ducks,25,In Progress
+1,Vancouver Canucks,22,2025-11-28T21:00Z,401802736,1,San Jose Sharks,18,End of Period
 0,Toronto Maple Leafs,21,2025-11-28T22:00Z,401802737,0,Washington Capitals,23,Scheduled
 0,Winnipeg Jets,28,2025-11-28T22:00Z,401802738,0,Carolina Hurricanes,7,Scheduled
 0,Pittsburgh Penguins,16,2025-11-29T00:00Z,401802739,0,Columbus Blue Jackets,29,Scheduled
