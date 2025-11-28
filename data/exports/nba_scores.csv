@@ -1,5 +1,12 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,LA Clippers,12,2025-11-21T00:00Z,401810119,0,Orlando Magic,19,Scheduled
-0,Sacramento Kings,23,2025-11-21T01:00Z,401810120,0,Memphis Grizzlies,29,Scheduled
-0,Philadelphia 76ers,20,2025-11-21T01:00Z,401810121,0,Milwaukee Bucks,15,Scheduled
-0,Atlanta Hawks,1,2025-11-21T01:00Z,401810122,0,San Antonio Spurs,24,Scheduled
+0,Cleveland Cavaliers,5,2025-11-29T00:30Z,401809811,0,Atlanta Hawks,1,Scheduled
+0,Philadelphia 76ers,20,2025-11-29T00:30Z,401809812,0,Brooklyn Nets,17,Scheduled
+0,Chicago Bulls,4,2025-11-29T00:30Z,401809813,0,Charlotte Hornets,30,Scheduled
+0,Orlando Magic,19,2025-11-29T00:30Z,401809814,0,Detroit Pistons,8,Scheduled
+0,Washington Wizards,27,2025-11-29T00:30Z,401809815,0,Indiana Pacers,11,Scheduled
+0,Milwaukee Bucks,15,2025-11-29T00:30Z,401809816,0,New York Knicks,18,Scheduled
+0,Phoenix Suns,21,2025-11-29T02:30Z,401809817,0,Oklahoma City Thunder,25,Scheduled
+0,San Antonio Spurs,24,2025-11-29T02:30Z,401809818,0,Denver Nuggets,7,Scheduled
+0,Sacramento Kings,23,2025-11-29T02:30Z,401809819,0,Utah Jazz,26,Scheduled
+0,Dallas Mavericks,6,2025-11-29T03:00Z,401809820,0,Los Angeles Lakers,13,Scheduled
+0,Memphis Grizzlies,29,2025-11-29T03:00Z,401809821,0,LA Clippers,12,Scheduled
