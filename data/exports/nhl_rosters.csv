@@ -86,7 +86,6 @@ CAR,8476873,{'default': 'Mark'} {'default': 'Jankowski'},L,L,76,200,1994-09-13
 CAR,8482093,{'default': 'Seth'} {'default': 'Jarvis'},C,R,70,180,2002-02-01
 CAR,8480829,{'default': 'Jesperi'} {'default': 'Kotkaniemi'},C,L,75,212,2000-07-06
 CAR,8476921,{'default': 'Jordan'} {'default': 'Martinook'},L,L,73,208,1992-07-25
-CAR,8482785,{'default': 'Justin'} {'default': 'Robidas'},C,R,68,176,2003-03-13
 CAR,8480762,{'default': 'Eric'} {'default': 'Robinson'},L,L,74,220,1995-06-14
 CAR,8473533,{'default': 'Jordan'} {'default': 'Staal'},C,L,76,220,1988-09-10
 CAR,8482702,{'default': 'Logan'} {'default': 'Stankoven'},C,R,68,165,2003-02-26
@@ -325,7 +324,6 @@ LAK,8475311,{'default': 'Darcy'} {'default': 'Kuemper'},G,L,77,215,1990-05-05
 MIN,8481557,{'default': 'Matt'} {'default': 'Boldy'},L,L,74,201,2001-04-05
 MIN,8478493,{'default': 'Joel'} {'default': 'Eriksson Ek'},C,L,75,207,1997-01-29
 MIN,8475220,{'default': 'Marcus'} {'default': 'Foligno'},L,L,75,226,1991-08-10
-MIN,8483452,{'default': 'Hunter'} {'default': 'Haight'},C,R,70,173,2004-04-04
 MIN,8477451,{'default': 'Ryan'} {'default': 'Hartman'},R,R,72,197,1994-09-20
 MIN,8476994,{'default': 'Vinnie'} {'default': 'Hinostroza'},C,R,70,183,1994-04-03
 MIN,8475149,{'default': 'Marcus'} {'default': 'Johansson'},L,L,73,203,1990-10-06
@@ -489,6 +487,7 @@ OTT,8482116,{'default': 'Tim'} {'default': 'Stützle'},C,L,72,187,2002-01-15
 OTT,8480801,{'default': 'Brady'} {'default': 'Tkachuk'},L,L,76,226,1999-09-16
 OTT,8480188,{'default': 'Fabian'} {'default': 'Zetterlund'},L,R,71,208,1999-08-25
 OTT,8478469,{'default': 'Thomas'} {'default': 'Chabot'},D,L,73,200,1997-01-30
+OTT,8478502,{'default': 'Dennis'} {'default': 'Gilbert'},D,L,74,216,1996-10-30
 OTT,8475324,{'default': 'Nick'} {'default': 'Jensen'},D,R,72,202,1990-09-21
 OTT,8482095,{'default': 'Tyler'} {'default': 'Kleven'},D,L,77,225,2002-01-10
 OTT,8484321,{'default': 'Nikolas'} {'default': 'Matinpalo'},D,R,75,213,1998-10-05
@@ -708,6 +707,7 @@ VAN,8481535,"{'default': 'Nils'} {'default': 'Hoglander', 'cs': 'Höglander', 'f
 VAN,8480144,"{'default': 'David'} {'default': 'Kampf', 'cs': 'Kämpf', 'fi': 'Kämpf', 'sk': 'Kämpf', 'sv': 'Kämpf'}",C,L,74,198,1995-01-12
 VAN,8475169,{'default': 'Evander'} {'default': 'Kane'},L,L,74,218,1991-08-02
 VAN,8481024,{'default': 'Linus'} {'default': 'Karlsson'},C,R,73,178,1999-11-16
+VAN,8483476,{'default': 'Jonathan'} {'default': 'Lekkerimäki'},R,R,71,172,2004-07-24
 VAN,8482055,"{'default': 'Drew'} {'default': ""O'Connor""}",L,L,76,209,1998-06-09
 VAN,8480012,{'default': 'Elias'} {'default': 'Pettersson'},C,L,74,176,1998-11-12
 VAN,8482691,"{'default': 'Aatu'} {'default': 'Raty', 'cs': 'Räty', 'fi': 'Räty', 'sk': 'Räty', 'sv': 'Räty'}",C,L,74,204,2002-11-14
@@ -724,7 +724,6 @@ VAN,8477969,{'default': 'Marcus'} {'default': 'Pettersson'},D,L,77,174,1996-05-0
 VAN,8484240,{'default': 'Tom'} {'default': 'Willander'},D,R,73,180,2005-02-09
 VAN,8477967,{'default': 'Thatcher'} {'default': 'Demko'},G,L,76,192,1995-12-08
 VAN,8480947,{'default': 'Kevin'} {'default': 'Lankinen'},G,L,74,190,1995-04-28
-VAN,8480238,{'default': 'Jiri'} {'default': 'Patera'},G,L,75,212,1999-02-24
 VAN,8484268,{'default': 'Nikita'} {'default': 'Tolopilo'},G,L,78,229,2000-04-06
 VGK,8477964,"{'default': 'Ivan'} {'default': 'Barbashev', 'cs': 'Barbašev', 'fi': 'Barbashov', 'sk': 'Barbašev'}",L,L,72,203,1995-12-14
 VGK,8483890,{'default': 'Braeden'} {'default': 'Bowman'},R,R,73,205,2003-06-26
@@ -748,7 +747,6 @@ VGK,8478468,{'default': 'Jeremy'} {'default': 'Lauzon'},D,L,75,225,1997-04-28
 VGK,8475188,{'default': 'Brayden'} {'default': 'McNabb'},D,L,76,215,1991-01-21
 VGK,8477447,{'default': 'Shea'} {'default': 'Theodore'},D,L,74,197,1995-08-03
 VGK,8480727,{'default': 'Zach'} {'default': 'Whitecloud'},D,R,74,210,1996-11-28
-VGK,8479394,{'default': 'Carter'} {'default': 'Hart'},G,L,74,196,1998-08-13
 VGK,8478499,{'default': 'Adin'} {'default': 'Hill'},G,L,76,222,1996-05-11
 VGK,8482761,{'default': 'Carl'} {'default': 'Lindbom'},G,L,73,186,2003-05-20
 VGK,8481033,{'default': 'Akira'} {'default': 'Schmid'},G,L,77,190,2000-05-12
