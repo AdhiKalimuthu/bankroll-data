@@ -1,12 +1,5 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-4,Tampa Bay Lightning,20,2025-11-29T19:00Z,401802742,1,New York Rangers,13,Final
-1,Montreal Canadiens,10,2025-11-29T20:00Z,401802743,5,Colorado Avalanche,17,End of Period
-1,Edmonton Oilers,6,2025-11-29T21:00Z,401802744,0,Seattle Kraken,124292,End of Period
-0,Detroit Red Wings,5,2025-11-30T00:00Z,401802745,0,Boston Bruins,1,Scheduled
-0,Philadelphia Flyers,15,2025-11-30T00:00Z,401802746,0,New Jersey Devils,11,Scheduled
-0,Toronto Maple Leafs,21,2025-11-30T00:00Z,401802747,0,Pittsburgh Penguins,16,Scheduled
-0,Winnipeg Jets,28,2025-11-30T00:00Z,401802748,0,Nashville Predators,27,Scheduled
-0,Utah Mammoth,129764,2025-11-30T01:00Z,401802749,0,St. Louis Blues,19,Scheduled
-0,Buffalo Sabres,2,2025-11-30T01:00Z,401802750,0,Minnesota Wild,30,Scheduled
-0,San Jose Sharks,18,2025-11-30T03:00Z,401802751,0,Vegas Golden Knights,37,Scheduled
-0,Vancouver Canucks,22,2025-11-30T03:00Z,401802752,0,Los Angeles Kings,8,Scheduled
+0,Washington Capitals,23,2025-11-30T18:00Z,401802753,0,New York Islanders,12,Scheduled
+0,Anaheim Ducks,25,2025-11-30T20:30Z,401802754,0,Chicago Blackhawks,4,Scheduled
+0,Calgary Flames,3,2025-11-30T22:00Z,401802755,0,Carolina Hurricanes,7,Scheduled
+0,Ottawa Senators,14,2025-11-30T23:00Z,401802756,0,Dallas Stars,9,Scheduled

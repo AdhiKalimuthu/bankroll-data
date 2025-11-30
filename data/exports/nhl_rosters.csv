@@ -179,7 +179,6 @@ COL,8482947,{'default': 'Zakhar'} {'default': 'Bardakov'},C,L,74,198,2001-02-24
 COL,8484149,{'default': 'Gavin'} {'default': 'Brindley'},C,R,68,173,2004-10-05
 COL,8479525,{'default': 'Ross'} {'default': 'Colton'},C,L,72,194,1996-09-11
 COL,8480835,{'default': 'Jack'} {'default': 'Drury'},C,L,71,186,2000-02-03
-COL,8483930,{'default': 'Ivan'} {'default': 'Ivan'},C,L,72,190,2002-08-20
 COL,8480448,{'default': 'Parker'} {'default': 'Kelly'},C,L,73,185,1999-05-14
 COL,8481641,{'default': 'Joel'} {'default': 'Kiviranta'},L,L,71,185,1996-03-23
 COL,8476455,{'default': 'Gabriel'} {'default': 'Landeskog'},L,L,73,215,1992-11-23
@@ -426,6 +425,7 @@ NYI,8478445,{'default': 'Mathew'} {'default': 'Barzal'},C,R,73,186,1997-05-26
 NYI,8475231,{'default': 'Casey'} {'default': 'Cizikas'},C,L,71,191,1991-02-27
 NYI,8477494,{'default': 'Jonathan'} {'default': 'Drouin'},L,L,71,189,1995-03-28
 NYI,8477407,{'default': 'Anthony'} {'default': 'Duclair'},L,L,72,198,1995-08-26
+NYI,8483553,{'default': 'Marc'} {'default': 'Gatcomb'},C,R,74,200,1999-07-22
 NYI,8482476,{'default': 'Emil'} {'default': 'Heineman'},L,L,74,204,2001-11-16
 NYI,8481601,"{'default': 'Simon'} {'default': 'Holmstrom', 'cs': 'Holmström', 'fi': 'Holmström', 'sk': 'Holmström', 'sv': 'Holmström'}",R,L,73,208,2001-05-24
 NYI,8477500,{'default': 'Bo'} {'default': 'Horvat'},C,L,73,225,1995-04-05
@@ -469,7 +469,7 @@ NYR,8481525,{'default': 'Matthew'} {'default': 'Robertson'},D,L,76,210,2001-03-0
 NYR,8482073,{'default': 'Braden'} {'default': 'Schneider'},D,R,75,206,2001-09-20
 NYR,8477369,{'default': 'Carson'} {'default': 'Soucy'},D,L,76,211,1994-07-27
 NYR,8480001,{'default': 'Urho'} {'default': 'Vaakanainen'},D,L,74,202,1999-01-01
-NYR,8482193,{'default': 'Dylan'} {'default': 'Garand'},G,L,73,185,2002-06-07
+NYR,8477484,{'default': 'Spencer'} {'default': 'Martin'},G,L,75,191,1995-06-08
 NYR,8471734,{'default': 'Jonathan'} {'default': 'Quick'},G,L,73,219,1986-01-21
 NYR,8478048,"{'default': 'Igor'} {'default': 'Shesterkin', 'cs': 'Šesťorkin', 'fi': 'Shestjorkin', 'sk': 'Šesťorkin'}",G,L,73,199,1995-12-30
 OTT,8478020,{'default': 'Michael'} {'default': 'Amadio'},R,R,73,206,1996-05-13
@@ -639,7 +639,6 @@ TBL,8481719,{'default': 'Max'} {'default': 'Crozier'},D,R,75,204,2000-04-19
 TBL,8480426,"{'default': 'Charle-Edouard'} {'default': ""D'Astous""}",D,L,74,211,1998-04-21
 TBL,8475167,{'default': 'Victor'} {'default': 'Hedman'},D,L,79,244,1990-12-18
 TBL,8482929,{'default': 'Emil'} {'default': 'Lilleberg'},D,L,75,215,2001-02-02
-TBL,8481547,{'default': 'Simon'} {'default': 'Lundmark'},D,R,74,190,2000-10-08
 TBL,8474151,{'default': 'Ryan'} {'default': 'McDonagh'},D,L,73,216,1989-06-13
 TBL,8482655,{'default': 'J.J.'} {'default': 'Moser'},D,L,74,183,2000-06-06
 TBL,8478178,{'default': 'Darren'} {'default': 'Raddysh'},D,R,73,202,1996-02-28
