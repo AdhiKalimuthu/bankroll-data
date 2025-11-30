@@ -1,5 +1,5 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Houston Rockets,10,2025-11-30T20:00Z,401810156,0,Utah Jazz,26,Scheduled
+102,Houston Rockets,10,2025-11-30T20:00Z,401810156,73,Utah Jazz,26,In Progress
 0,Boston Celtics,2,2025-11-30T23:00Z,401810157,0,Cleveland Cavaliers,5,Scheduled
 0,Toronto Raptors,28,2025-11-30T23:00Z,401810158,0,New York Knicks,18,Scheduled
 0,Atlanta Hawks,1,2025-11-30T23:00Z,401810159,0,Philadelphia 76ers,20,Scheduled

@@ -32,7 +32,6 @@ BOS,8480355,{'default': 'Mark'} {'default': 'Kastelic'},C,R,76,234,1999-03-11
 BOS,8482177,"{'default': 'Marat'} {'default': 'Khusnutdinov', 'cs': 'Chusnutdinov', 'fi': 'Husnutdinov', 'sk': 'Chusnutdinov'}",C,L,71,184,2002-07-17
 BOS,8476374,{'default': 'Sean'} {'default': 'Kuraly'},C,L,74,208,1993-01-20
 BOS,8477496,{'default': 'Elias'} {'default': 'Lindholm'},C,R,73,200,1994-12-02
-BOS,8483567,{'default': 'Georgii'} {'default': 'Merkulov'},C,L,71,174,2000-10-10
 BOS,8483489,{'default': 'Fraser'} {'default': 'Minten'},C,L,74,204,2004-07-05
 BOS,8479999,{'default': 'Casey'} {'default': 'Mittelstadt'},C,L,73,205,1998-11-22
 BOS,8477956,"{'default': 'David'} {'default': 'Pastrnak', 'cs': 'Pastrňák', 'sk': 'Pastrňák'}",R,R,72,199,1996-05-25
@@ -521,12 +520,10 @@ PHI,8481035,{'default': 'Samuel'} {'default': 'Ersson'},G,L,75,194,1999-10-20
 PHI,8478435,"{'default': 'Dan'} {'default': 'Vladar', 'cs': 'Vladař', 'sk': 'Vladař'}",G,L,77,209,1997-08-20
 PIT,8478569,{'default': 'Noel'} {'default': 'Acciari'},C,R,71,204,1991-12-01
 PIT,8479638,{'default': 'Justin'} {'default': 'Brazeau'},R,R,78,232,1998-02-02
-PIT,8482698,{'default': 'Tristan'} {'default': 'Broz'},C,L,72,204,2002-10-10
 PIT,8471675,{'default': 'Sidney'} {'default': 'Crosby'},C,L,71,200,1987-08-07
 PIT,8480980,{'default': 'Connor'} {'default': 'Dewar'},C,L,70,187,1999-06-26
 PIT,8480842,{'default': 'Filip'} {'default': 'Hallander'},C,L,73,203,2000-06-29
 PIT,8475763,{'default': 'Kevin'} {'default': 'Hayes'},R,L,75,217,1992-05-08
-PIT,8478046,{'default': 'Danton'} {'default': 'Heinen'},L,L,74,187,1995-07-05
 PIT,8485414,{'default': 'Ben'} {'default': 'Kindel'},C,R,71,182,2007-04-19
 PIT,8482758,{'default': 'Ville'} {'default': 'Koivunen'},R,L,72,184,2003-06-13
 PIT,8479533,{'default': 'Joona'} {'default': 'Koppanen'},L,L,77,216,1998-02-25

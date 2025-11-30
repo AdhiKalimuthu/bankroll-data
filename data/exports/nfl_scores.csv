@@ -1,12 +1,12 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,San Francisco 49ers,25,2025-11-30T18:00Z,401772785,0,Cleveland Browns,5,Scheduled
-0,Jacksonville Jaguars,30,2025-11-30T18:00Z,401772786,0,Tennessee Titans,10,Scheduled
-0,Houston Texans,34,2025-11-30T18:00Z,401772787,0,Indianapolis Colts,11,Scheduled
-0,New Orleans Saints,18,2025-11-30T18:00Z,401772892,0,Miami Dolphins,15,Scheduled
-0,Atlanta Falcons,1,2025-11-30T18:00Z,401772893,0,New York Jets,20,Scheduled
-0,Arizona Cardinals,22,2025-11-30T18:00Z,401772895,0,Tampa Bay Buccaneers,27,Scheduled
-0,Los Angeles Rams,14,2025-11-30T18:00Z,401772894,0,Carolina Panthers,29,Scheduled
-0,Minnesota Vikings,16,2025-11-30T21:05Z,401772896,0,Seattle Seahawks,26,Scheduled
-0,Buffalo Bills,2,2025-11-30T21:25Z,401772789,0,Pittsburgh Steelers,23,Scheduled
-0,Las Vegas Raiders,13,2025-11-30T21:25Z,401772788,0,Los Angeles Chargers,24,Scheduled
+0,Minnesota Vikings,16,2025-11-30T21:05Z,401772896,3,Seattle Seahawks,26,In Progress
+0,Buffalo Bills,2,2025-11-30T21:25Z,401772789,0,Pittsburgh Steelers,23,In Progress
+0,Las Vegas Raiders,13,2025-11-30T21:25Z,401772788,7,Los Angeles Chargers,24,In Progress
+26,San Francisco 49ers,25,2025-11-30T18:00Z,401772785,8,Cleveland Browns,5,Final
+25,Jacksonville Jaguars,30,2025-11-30T18:00Z,401772786,3,Tennessee Titans,10,Final
+20,Houston Texans,34,2025-11-30T18:00Z,401772787,16,Indianapolis Colts,11,Final
+17,New Orleans Saints,18,2025-11-30T18:00Z,401772892,21,Miami Dolphins,15,Final
+24,Atlanta Falcons,1,2025-11-30T18:00Z,401772893,27,New York Jets,20,Final
+17,Arizona Cardinals,22,2025-11-30T18:00Z,401772895,20,Tampa Bay Buccaneers,27,Final
+28,Los Angeles Rams,14,2025-11-30T18:00Z,401772894,31,Carolina Panthers,29,Final
 0,Denver Broncos,7,2025-12-01T01:20Z,401772931,0,Washington Commanders,28,Scheduled
