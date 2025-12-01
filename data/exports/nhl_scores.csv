@@ -1,5 +1,6 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-4,Washington Capitals,23,2025-11-30T18:00Z,401802753,1,New York Islanders,12,Final
-3,Anaheim Ducks,25,2025-11-30T20:30Z,401802754,3,Chicago Blackhawks,4,In Progress
-0,Calgary Flames,3,2025-11-30T22:00Z,401802755,0,Carolina Hurricanes,7,Scheduled
-0,Ottawa Senators,14,2025-11-30T23:00Z,401802756,0,Dallas Stars,9,Scheduled
+0,Columbus Blue Jackets,29,2025-12-02T00:00Z,401802757,0,New Jersey Devils,11,Scheduled
+0,Pittsburgh Penguins,16,2025-12-02T00:00Z,401802758,0,Philadelphia Flyers,15,Scheduled
+0,Winnipeg Jets,28,2025-12-02T00:30Z,401802759,0,Buffalo Sabres,2,Scheduled
+0,Anaheim Ducks,25,2025-12-02T01:00Z,401802760,0,St. Louis Blues,19,Scheduled
+0,Utah Mammoth,129764,2025-12-02T03:00Z,401802761,0,San Jose Sharks,18,Scheduled
