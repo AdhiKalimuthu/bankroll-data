@@ -23,6 +23,7 @@ ANA,8476885,{'default': 'Jacob'} {'default': 'Trouba'},D,R,75,212,1994-02-26
 ANA,8482803,{'default': 'Olen'} {'default': 'Zellweger'},D,L,70,193,2003-09-10
 ANA,8483746,{'default': 'Vyacheslav'} {'default': 'Buteyets'},G,L,76,220,2002-05-29
 ANA,8480843,"{'default': 'Lukas', 'cs': 'Lukáš', 'sk': 'Lukáš'} {'default': 'Dostal', 'cs': 'Dostál', 'sk': 'Dostál'}",G,L,74,190,2000-06-22
+ANA,8478024,{'default': 'Ville'} {'default': 'Husso'},G,L,75,205,1995-02-06
 ANA,8475852,"{'default': 'Petr'} {'default': 'Mrazek', 'cs': 'Mrázek', 'sk': 'Mrázek'}",G,L,74,192,1992-02-14
 BOS,8478042,{'default': 'Viktor'} {'default': 'Arvidsson'},L,R,70,181,1993-04-08
 BOS,8481712,"{'default': 'Matěj ', 'cs': 'Matěj', 'de': 'Matej', 'es': 'Matej', 'fi': 'Matej', 'sk': 'Matěj', 'sv': 'Matej'} {'default': 'Blümel', 'es': 'Blumel'}",R,L,72,202,2000-05-31
@@ -676,6 +677,7 @@ TOR,8475690,"{'default': 'Chris', 'cs': 'Christopher', 'de': 'Christopher', 'es'
 TOR,8483710,{'default': 'Dennis'} {'default': 'Hildeby'},G,L,79,231,2001-08-19
 TOR,8476932,{'default': 'Anthony'} {'default': 'Stolarz'},G,L,78,248,1994-01-20
 TOR,8479361,{'default': 'Joseph'} {'default': 'Woll'},G,L,75,212,1998-07-12
+UTA,8484388,{'default': 'Daniil'} {'default': 'But'},L,R,77,203,2005-02-15
 UTA,8479619,{'default': 'Michael'} {'default': 'Carcone'},L,L,69,182,1996-05-19
 UTA,8483431,{'default': 'Logan'} {'default': 'Cooley'},C,L,72,191,2004-05-04
 UTA,8478474,{'default': 'Lawson'} {'default': 'Crouse'},L,L,76,214,1997-06-23
@@ -697,7 +699,6 @@ UTA,8478507,{'default': 'John'} {'default': 'Marino'},D,R,73,200,1997-05-21
 UTA,8476874,"{'default': 'Olli'} {'default': 'Määttä', 'de': 'Maatta', 'es': 'Maatta', 'fr': 'Maatta'}",D,L,74,207,1994-08-22
 UTA,8477220,{'default': 'Nate'} {'default': 'Schmidt'},D,L,72,197,1991-07-16
 UTA,8479410,"{'default': 'Mikhail', 'cs': 'Michail', 'fi': 'Mihail', 'sk': 'Michail'} {'default': 'Sergachev', 'cs': 'Sergačov', 'fi': 'Sergatshov', 'sk': 'Sergačov'}",D,L,75,212,1998-06-25
-UTA,8484386,{'default': 'Dmitri'} {'default': 'Simashev'},D,L,76,198,2005-02-04
 UTA,8477970,"{'default': 'Vitek'} {'default': 'Vanecek', 'cs': 'Vaněček', 'sk': 'Vaněček'}",G,L,74,184,1996-01-09
 UTA,8478872,{'default': 'Karel'} {'default': 'Vejmelka'},G,R,76,221,1996-05-25
 VAN,8482496,"{'default': 'Nils'} {'default': 'Aman', 'fi': 'Åman', 'sv': 'Åman'}",C,L,74,179,2000-02-07
