@@ -379,6 +379,7 @@ MTL,8478470,{'default': 'Sam'} {'default': 'Montembeault'},G,L,75,218,1996-10-30
 NJD,8479407,{'default': 'Jesper'} {'default': 'Bratt'},L,L,70,175,1998-07-30
 NJD,8477015,{'default': 'Connor'} {'default': 'Brown'},R,R,72,184,1994-01-14
 NJD,8481032,{'default': 'Paul'} {'default': 'Cotter'},L,L,74,213,1999-11-16
+NJD,8481065,{'default': 'Angus'} {'default': 'Crookshank'},C,L,70,183,1999-10-02
 NJD,8474149,"{'default': 'Evgenii', 'cs': 'Jevgenij', 'fi': 'Jevgeni', 'sk': 'Jevgenij'} {'default': 'Dadonov'}",L,L,71,188,1989-03-12
 NJD,8479996,{'default': 'Cody'} {'default': 'Glass'},C,R,75,201,1999-04-01
 NJD,8476822,{'default': 'Luke'} {'default': 'Glendening'},C,R,71,190,1989-04-28
@@ -760,6 +761,7 @@ VGK,8480727,{'default': 'Zach'} {'default': 'Whitecloud'},D,R,74,210,1996-11-28
 VGK,8479394,{'default': 'Carter'} {'default': 'Hart'},G,L,74,196,1998-08-13
 VGK,8478499,{'default': 'Adin'} {'default': 'Hill'},G,L,76,222,1996-05-11
 VGK,8481033,{'default': 'Akira'} {'default': 'Schmid'},G,L,77,190,2000-05-12
+VGK,8482484,{'default': 'Jesper'} {'default': 'Vikman'},G,L,76,205,2002-03-11
 WPG,8480289,{'default': 'Morgan'} {'default': 'Barron'},C,L,76,220,1998-12-02
 WPG,8478398,{'default': 'Kyle'} {'default': 'Connor'},L,L,73,183,1996-12-09
 WPG,8480113,{'default': 'Alex'} {'default': 'Iafallo'},L,L,72,201,1993-12-21
