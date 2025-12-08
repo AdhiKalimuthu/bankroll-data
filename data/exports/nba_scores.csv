@@ -1,13 +1,4 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Los Angeles Lakers,13,2025-12-06T00:00Z,401810193,0,Boston Celtics,2,Scheduled
-0,Miami Heat,14,2025-12-06T00:00Z,401810194,0,Orlando Magic,19,Scheduled
-0,Denver Nuggets,7,2025-12-06T00:30Z,401810195,0,Atlanta Hawks,1,Scheduled
-0,San Antonio Spurs,24,2025-12-06T00:30Z,401810196,0,Cleveland Cavaliers,5,Scheduled
-0,Portland Trail Blazers,22,2025-12-06T00:30Z,401810197,0,Detroit Pistons,8,Scheduled
-0,Utah Jazz,26,2025-12-06T00:30Z,401810198,0,New York Knicks,18,Scheduled
-0,Charlotte Hornets,30,2025-12-06T00:30Z,401810199,0,Toronto Raptors,28,Scheduled
-0,Indiana Pacers,11,2025-12-06T01:00Z,401810200,0,Chicago Bulls,4,Scheduled
-0,Phoenix Suns,21,2025-12-06T01:00Z,401810201,0,Houston Rockets,10,Scheduled
-0,LA Clippers,12,2025-12-06T01:00Z,401810202,0,Memphis Grizzlies,29,Scheduled
-0,Philadelphia 76ers,20,2025-12-06T01:00Z,401810203,0,Milwaukee Bucks,15,Scheduled
-0,Dallas Mavericks,6,2025-12-06T02:30Z,401810204,0,Oklahoma City Thunder,25,Scheduled
+0,Sacramento Kings,23,2025-12-09T00:00Z,401810219,0,Indiana Pacers,11,Scheduled
+0,Phoenix Suns,21,2025-12-09T00:30Z,401810220,0,Minnesota Timberwolves,16,Scheduled
+0,San Antonio Spurs,24,2025-12-09T01:00Z,401810221,0,New Orleans Pelicans,3,Scheduled
