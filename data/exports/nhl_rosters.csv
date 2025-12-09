@@ -482,6 +482,7 @@ OTT,8474189,{'default': 'Lars'} {'default': 'Eller'},C,L,74,207,1989-05-08
 OTT,8473512,{'default': 'Claude'} {'default': 'Giroux'},R,R,71,186,1988-01-12
 OTT,8482092,{'default': 'Ridly'} {'default': 'Greig'},C,L,72,184,2002-08-08
 OTT,8483676,{'default': 'Stephen'} {'default': 'Halliday'},C,L,76,214,2002-07-02
+OTT,8480245,{'default': 'Olle'} {'default': 'Lycksell'},R,L,71,197,1999-08-24
 OTT,8477073,{'default': 'Kurtis'} {'default': 'MacDermid'},L,L,77,233,1994-03-25
 OTT,8474102,{'default': 'David'} {'default': 'Perron'},L,R,72,202,1988-05-28
 OTT,8481596,{'default': 'Shane'} {'default': 'Pinto'},C,R,75,206,2000-11-12
@@ -528,6 +529,7 @@ PIT,8471675,{'default': 'Sidney'} {'default': 'Crosby'},C,L,71,200,1987-08-07
 PIT,8480980,{'default': 'Connor'} {'default': 'Dewar'},C,L,70,187,1999-06-26
 PIT,8480842,{'default': 'Filip'} {'default': 'Hallander'},C,L,73,203,2000-06-29
 PIT,8475763,{'default': 'Kevin'} {'default': 'Hayes'},R,L,75,217,1992-05-08
+PIT,8478046,{'default': 'Danton'} {'default': 'Heinen'},L,L,74,187,1995-07-05
 PIT,8485414,{'default': 'Ben'} {'default': 'Kindel'},C,R,71,182,2007-04-19
 PIT,8482758,{'default': 'Ville'} {'default': 'Koivunen'},R,L,72,184,2003-06-13
 PIT,8481481,{'default': 'Blake'} {'default': 'Lizotte'},C,L,69,176,1997-12-13
@@ -535,6 +537,7 @@ PIT,8471215,"{'default': 'Evgeni', 'cs': 'Jevgenij', 'fi': 'Jevgeni', 'sk': 'Jev
 PIT,8477511,{'default': 'Anthony'} {'default': 'Mantha'},R,L,77,240,1994-09-16
 PIT,8483487,{'default': 'Rutger'} {'default': 'McGroarty'},R,L,73,212,2004-03-30
 PIT,8478438,"{'default': 'Tommy', 'cs': 'Thomas', 'de': 'Thomas', 'es': 'Thomas', 'fi': 'Thomas', 'sk': 'Thomas', 'sv': 'Thomas'} {'default': 'Novak'}",C,L,73,190,1997-04-28
+PIT,8481591,{'default': 'Sam'} {'default': 'Poulin'},R,L,74,217,2001-02-25
 PIT,8476483,{'default': 'Rickard'} {'default': 'Rakell'},R,R,73,194,1993-05-05
 PIT,8475810,{'default': 'Bryan'} {'default': 'Rust'},R,R,71,202,1992-05-11
 PIT,8484839,{'default': 'Harrison'} {'default': 'Brunicke'},D,R,75,201,2006-05-08
@@ -607,6 +610,7 @@ STL,8478472,{'default': 'Mathieu'} {'default': 'Joseph'},R,L,73,189,1997-02-09
 STL,8483463,{'default': 'Aleksanteri'} {'default': 'Kaskimaki'},C,L,72,195,2004-02-06
 STL,8479385,{'default': 'Jordan'} {'default': 'Kyrou'},R,R,73,189,1998-05-05
 STL,8479644,{'default': 'Matt'} {'default': 'Luff'},R,R,75,219,1997-05-05
+STL,8481070,{'default': 'Hugh'} {'default': 'McGing'},L,L,68,174,1998-07-11
 STL,8482089,{'default': 'Jake'} {'default': 'Neighbours'},L,L,72,201,2002-03-29
 STL,8475170,{'default': 'Brayden'} {'default': 'Schenn'},C,L,73,200,1991-08-22
 STL,8483516,{'default': 'Jimmy'} {'default': 'Snuggerud'},R,R,73,193,2004-06-01
@@ -638,6 +642,7 @@ TBL,8483752,{'default': 'Dominic'} {'default': 'James'},C,L,72,190,2002-07-03
 TBL,8476453,"{'default': 'Nikita'} {'default': 'Kucherov', 'cs': 'Kučerov', 'fi': 'Kutsherov', 'sk': 'Kučerov'}",R,L,72,173,1993-06-17
 TBL,8477426,{'default': 'Nick'} {'default': 'Paul'},L,L,76,234,1995-03-20
 TBL,8478010,{'default': 'Brayden'} {'default': 'Point'},C,R,71,177,1996-03-13
+TBL,8477149,{'default': 'Scott'} {'default': 'Sabourin'},R,R,75,205,1992-07-30
 TBL,8478416,"{'default': 'Erik'} {'default': 'Cernak', 'cs': 'Černák', 'sk': 'Černák'}",D,R,76,230,1997-05-28
 TBL,8481719,{'default': 'Max'} {'default': 'Crozier'},D,R,75,204,2000-04-19
 TBL,8480426,"{'default': 'Charle-Edouard'} {'default': ""D'Astous""}",D,L,74,211,1998-04-21
@@ -743,6 +748,7 @@ VGK,8476438,{'default': 'Brandon'} {'default': 'Saad'},L,L,73,207,1992-10-27
 VGK,8476925,{'default': 'Colton'} {'default': 'Sissons'},C,R,73,200,1993-11-05
 VGK,8475191,{'default': 'Reilly'} {'default': 'Smith'},R,L,73,185,1991-04-01
 VGK,8475913,{'default': 'Mark'} {'default': 'Stone'},R,R,75,210,1992-05-13
+VGK,8479639,{'default': 'Dylan'} {'default': 'Coghlan'},D,R,74,205,1998-02-19
 VGK,8478396,{'default': 'Noah'} {'default': 'Hanifin'},D,L,75,206,1997-01-25
 VGK,8477018,{'default': 'Ben'} {'default': 'Hutton'},D,L,75,209,1993-04-20
 VGK,8481527,{'default': 'Kaedan'} {'default': 'Korczak'},D,R,75,206,2001-01-29

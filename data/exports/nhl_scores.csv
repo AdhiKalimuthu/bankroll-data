@@ -1,6 +1,11 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Tampa Bay Lightning,20,2025-12-09T00:30Z,401802812,0,Toronto Maple Leafs,21,Scheduled
-0,Los Angeles Kings,8,2025-12-09T02:00Z,401802813,0,Utah Mammoth,129764,Scheduled
-0,Buffalo Sabres,2,2025-12-09T02:00Z,401802814,0,Calgary Flames,3,Scheduled
-0,Detroit Red Wings,5,2025-12-09T03:00Z,401802815,0,Vancouver Canucks,22,Scheduled
-0,Minnesota Wild,30,2025-12-09T03:00Z,401802816,0,Seattle Kraken,124292,Scheduled
+0,Tampa Bay Lightning,20,2025-12-10T00:00Z,401802817,0,Montreal Canadiens,10,Scheduled
+0,New Jersey Devils,11,2025-12-10T00:00Z,401802818,0,Ottawa Senators,14,Scheduled
+0,Vegas Golden Knights,37,2025-12-10T00:00Z,401802819,0,New York Islanders,12,Scheduled
+0,San Jose Sharks,18,2025-12-10T00:00Z,401802820,0,Philadelphia Flyers,15,Scheduled
+0,Anaheim Ducks,25,2025-12-10T00:00Z,401802821,0,Pittsburgh Penguins,16,Scheduled
+0,Columbus Blue Jackets,29,2025-12-10T00:30Z,401802822,0,Carolina Hurricanes,7,Scheduled
+0,Boston Bruins,1,2025-12-10T01:00Z,401802823,0,St. Louis Blues,19,Scheduled
+0,Dallas Stars,9,2025-12-10T01:00Z,401802824,0,Winnipeg Jets,28,Scheduled
+0,Buffalo Sabres,2,2025-12-10T02:00Z,401802825,0,Edmonton Oilers,6,Scheduled
+0,Colorado Avalanche,17,2025-12-10T02:30Z,401802826,0,Nashville Predators,27,Scheduled
