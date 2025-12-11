@@ -60,6 +60,7 @@ BUF,8478413,{'default': 'Jordan'} {'default': 'Greenway'},L,L,78,231,1997-02-16
 BUF,8482896,{'default': 'Tyson'} {'default': 'Kozak'},C,L,71,185,2002-12-29
 BUF,8481522,{'default': 'Peyton'} {'default': 'Krebs'},C,L,72,188,2001-01-26
 BUF,8483468,"{'default': 'Jiri', 'cs': 'Jiří', 'sk': 'Jiří'} {'default': 'Kulich'}",C,L,73,193,2004-04-14
+BUF,8482479,{'default': 'Trevor'} {'default': 'Kuntar'},C,L,72,205,2001-06-20
 BUF,8479359,{'default': 'Beck'} {'default': 'Malenstyn'},L,L,75,209,1998-02-04
 BUF,8480802,{'default': 'Ryan'} {'default': 'McLeod'},C,L,75,204,1999-09-21
 BUF,8480064,{'default': 'Josh'} {'default': 'Norris'},C,L,74,196,1999-05-05
@@ -136,7 +137,6 @@ CGY,8480797,{'default': 'Joel'} {'default': 'Farabee'},L,L,72,186,2000-02-25
 CGY,8480028,{'default': 'Morgan'} {'default': 'Frost'},C,L,72,193,1999-05-14
 CGY,8484180,{'default': 'Samuel'} {'default': 'Honzek'},L,L,76,186,2004-11-12
 CGY,8476456,{'default': 'Jonathan'} {'default': 'Huberdeau'},L,L,73,200,1993-06-04
-CGY,8478211,{'default': 'Dryden'} {'default': 'Hunt'},L,L,72,193,1995-11-24
 CGY,8475172,{'default': 'Nazem'} {'default': 'Kadri'},C,L,72,185,1990-10-06
 CGY,8483609,{'default': 'Adam'} {'default': 'Klapka'},R,R,80,235,2000-09-14
 CGY,8479066,{'default': 'Ryan'} {'default': 'Lomberg'},L,L,69,184,1994-12-09
@@ -256,6 +256,7 @@ EDM,8479365,{'default': 'Trent'} {'default': 'Frederic'},C,L,75,221,1998-02-11
 EDM,8474641,{'default': 'Adam'} {'default': 'Henrique'},C,L,72,195,1990-02-06
 EDM,8475786,{'default': 'Zach'} {'default': 'Hyman'},L,R,73,206,1992-06-09
 EDM,8477406,{'default': 'Mattias'} {'default': 'Janmark'},C,L,74,205,1992-12-08
+EDM,8479368,{'default': 'Max'} {'default': 'Jones'},L,L,75,216,1998-02-17
 EDM,8477953,{'default': 'Kasperi'} {'default': 'Kapanen'},R,R,73,194,1996-07-23
 EDM,8477508,{'default': 'Curtis'} {'default': 'Lazar'},C,R,72,203,1995-02-02
 EDM,8478233,{'default': 'Andrew'} {'default': 'Mangiapane'},L,L,70,183,1996-04-04
@@ -324,6 +325,7 @@ LAK,8476441,{'default': 'Joel'} {'default': 'Edmundson'},D,L,77,220,1993-06-28
 LAK,8479421,{'default': 'Jacob'} {'default': 'Moverare'},D,L,75,205,1998-08-31
 LAK,8476341,{'default': 'Anton'} {'default': 'Forsberg'},G,L,75,200,1992-11-27
 LAK,8475311,{'default': 'Darcy'} {'default': 'Kuemper'},G,L,77,215,1990-05-05
+MIN,8477979,{'default': 'Nicolas'} {'default': 'Aube-Kubel'},R,R,72,213,1996-05-10
 MIN,8481557,{'default': 'Matt'} {'default': 'Boldy'},L,L,74,201,2001-04-05
 MIN,8478493,{'default': 'Joel'} {'default': 'Eriksson Ek'},C,L,75,207,1997-01-29
 MIN,8475220,{'default': 'Marcus'} {'default': 'Foligno'},L,L,75,226,1991-08-10
@@ -345,6 +347,7 @@ MIN,8476463,{'default': 'Jonas'} {'default': 'Brodin'},D,L,74,196,1993-07-12
 MIN,8484798,{'default': 'Zeev'} {'default': 'Buium'},D,L,72,183,2005-12-07
 MIN,8482122,{'default': 'Brock'} {'default': 'Faber'},D,R,73,200,2002-08-22
 MIN,8482094,{'default': 'Daemon'} {'default': 'Hunt'},D,L,73,193,2002-05-15
+MIN,8482641,{'default': 'Matt'} {'default': 'Kiersted'},D,L,72,182,1998-04-14
 MIN,8478136,"{'default': 'Jake', 'cs': 'Jacob', 'de': 'Jacob', 'es': 'Jacob', 'fi': 'Jacob', 'sk': 'Jacob', 'sv': 'Jacob'} {'default': 'Middleton'}",D,L,75,219,1996-01-02
 MIN,8474716,{'default': 'Jared'} {'default': 'Spurgeon'},D,R,69,166,1989-11-29
 MIN,8479406,{'default': 'Filip'} {'default': 'Gustavsson'},G,L,74,184,1998-06-07
