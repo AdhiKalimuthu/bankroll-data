@@ -459,13 +459,14 @@ NYI,8473575,"{'default': 'Semyon', 'cs': 'Semjon', 'fi': 'Semjon', 'sk': 'Semjon
 NYR,8482132,{'default': 'Brett'} {'default': 'Berard'},L,L,69,175,2002-09-09
 NYR,8477380,{'default': 'Jonny'} {'default': 'Brodzinski'},C,R,72,206,1993-06-19
 NYR,8475842,{'default': 'Sam'} {'default': 'Carrick'},C,R,72,202,1992-02-04
-NYR,8482877,{'default': 'Jaroslav'} {'default': 'Chmelar'},R,R,76,226,2003-07-20
 NYR,8482157,{'default': 'Will'} {'default': 'Cuylle'},L,L,75,212,2002-02-05
 NYR,8481726,"{'default': 'Adam'} {'default': 'Edstrom', 'cs': 'Edström', 'fi': 'Edström', 'sk': 'Edström', 'sv': 'Edström'}",C,L,79,232,2000-10-12
 NYR,8483690,{'default': 'Noah'} {'default': 'Laba'},C,R,75,214,2003-08-04
 NYR,8482109,{'default': 'Alexis'} {'default': 'Lafrenière'},L,L,74,191,2001-10-11
 NYR,8476468,{'default': 'J.T.'} {'default': 'Miller'},C,L,72,211,1993-03-14
+NYR,8482747,{'default': 'Brennan'} {'default': 'Othmann'},L,L,72,192,2003-01-05
 NYR,8478550,"{'default': 'Artemi', 'cs': 'Artěmij', 'sk': 'Artemij'} {'default': 'Panarin'}",L,R,72,176,1991-10-30
+NYR,8484210,{'default': 'Gabe'} {'default': 'Perreault'},R,L,71,180,2005-05-07
 NYR,8479390,{'default': 'Taylor'} {'default': 'Raddysh'},R,R,74,201,1998-02-18
 NYR,8482460,{'default': 'Matt'} {'default': 'Rempe'},C,R,81,261,2002-06-29
 NYR,8477839,{'default': 'Conor'} {'default': 'Sheary'},L,L,68,180,1992-06-08
@@ -594,7 +595,6 @@ SJS,8478874,{'default': 'Adam'} {'default': 'Gaudette'},R,R,73,190,1996-10-03
 SJS,8476624,{'default': 'Barclay'} {'default': 'Goodrow'},C,L,74,210,1993-02-26
 SJS,8484911,{'default': 'Collin'} {'default': 'Graf'},R,R,73,190,2002-09-21
 SJS,8480798,{'default': 'Philipp'} {'default': 'Kurashev'},C,L,72,190,1999-10-12
-SJS,8485402,{'default': 'Michael'} {'default': 'Misa'},C,L,73,185,2007-02-16
 SJS,8482859,{'default': 'Zack'} {'default': 'Ostapchuk'},C,L,76,212,2003-05-29
 SJS,8471817,{'default': 'Ryan'} {'default': 'Reaves'},R,R,74,225,1987-01-20
 SJS,8475784,{'default': 'Jeff'} {'default': 'Skinner'},L,L,71,200,1992-05-16
@@ -717,7 +717,6 @@ UTA,8479410,"{'default': 'Mikhail', 'cs': 'Michail', 'fi': 'Mihail', 'sk': 'Mich
 UTA,8477970,"{'default': 'Vitek'} {'default': 'Vanecek', 'cs': 'Vaněček', 'sk': 'Vaněček'}",G,L,74,184,1996-01-09
 UTA,8478872,{'default': 'Karel'} {'default': 'Vejmelka'},G,R,76,221,1996-05-25
 VAN,8482496,"{'default': 'Nils'} {'default': 'Aman', 'fi': 'Åman', 'sv': 'Åman'}",C,L,74,179,2000-02-07
-VAN,8483395,{'default': 'Arshdeep'} {'default': 'Bains'},L,L,72,184,2001-01-09
 VAN,8476927,"{'default': 'Teddy', 'cs': 'Theodors', 'sk': 'Theodors'} {'default': 'Blueger', 'cs': 'Blugers', 'sk': 'Blugers'}",C,L,72,185,1994-08-15
 VAN,8478444,{'default': 'Brock'} {'default': 'Boeser'},R,R,73,208,1997-02-25
 VAN,8480078,{'default': 'Filip'} {'default': 'Chytil'},C,L,74,210,1999-09-05
