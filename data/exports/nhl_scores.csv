@@ -1,14 +1,6 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,San Jose Sharks,18,2025-12-12T00:00Z,401802831,0,Toronto Maple Leafs,21,Scheduled
-0,Tampa Bay Lightning,20,2025-12-12T00:00Z,401802832,0,New Jersey Devils,11,Scheduled
-0,Anaheim Ducks,25,2025-12-12T00:00Z,401802833,0,New York Islanders,12,Scheduled
-0,Vegas Golden Knights,37,2025-12-12T00:00Z,401802834,0,Philadelphia Flyers,15,Scheduled
-0,Montreal Canadiens,10,2025-12-12T00:00Z,401802835,0,Pittsburgh Penguins,16,Scheduled
-0,Carolina Hurricanes,7,2025-12-12T00:00Z,401802836,0,Washington Capitals,23,Scheduled
-0,Ottawa Senators,14,2025-12-12T00:00Z,401802837,0,Columbus Blue Jackets,29,Scheduled
-0,St. Louis Blues,19,2025-12-12T01:00Z,401802838,0,Nashville Predators,27,Scheduled
-0,Dallas Stars,9,2025-12-12T01:00Z,401802839,0,Minnesota Wild,30,Scheduled
-0,Boston Bruins,1,2025-12-12T01:00Z,401802840,0,Winnipeg Jets,28,Scheduled
-0,Detroit Red Wings,5,2025-12-12T02:00Z,401802842,0,Edmonton Oilers,6,Scheduled
-0,Florida Panthers,26,2025-12-12T02:30Z,401802841,0,Colorado Avalanche,17,Scheduled
-0,Buffalo Sabres,2,2025-12-12T03:00Z,401802843,0,Vancouver Canucks,22,Scheduled
+0,Los Angeles Kings,8,2025-12-18T00:00Z,401802880,0,Florida Panthers,26,Scheduled
+0,Utah Mammoth,129764,2025-12-18T00:30Z,401802881,0,Detroit Red Wings,5,Scheduled
+0,Winnipeg Jets,28,2025-12-18T01:00Z,401802882,0,St. Louis Blues,19,Scheduled
+0,Carolina Hurricanes,7,2025-12-18T01:00Z,401802883,0,Nashville Predators,27,Scheduled
+0,New Jersey Devils,11,2025-12-18T03:00Z,401802884,0,Vegas Golden Knights,37,Scheduled
