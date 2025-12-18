@@ -348,6 +348,7 @@ MIN,8483460,"{'default': 'David'} {'default': 'Jiricek', 'cs': 'Jiříček', 'sk
 MIN,8482641,{'default': 'Matt'} {'default': 'Kiersted'},D,L,72,182,1998-04-14
 MIN,8482781,{'default': 'Carson'} {'default': 'Lambos'},D,L,73,197,2003-01-14
 MIN,8478136,"{'default': 'Jake', 'cs': 'Jacob', 'de': 'Jacob', 'es': 'Jacob', 'fi': 'Jacob', 'sk': 'Jacob', 'sv': 'Jacob'} {'default': 'Middleton'}",D,L,75,219,1996-01-02
+MIN,8483766,{'default': 'David'} {'default': 'Spacek'},D,R,72,174,2003-02-18
 MIN,8474716,{'default': 'Jared'} {'default': 'Spurgeon'},D,R,69,166,1989-11-29
 MIN,8479406,{'default': 'Filip'} {'default': 'Gustavsson'},G,L,74,184,1998-06-07
 MIN,8482661,{'default': 'Jesper'} {'default': 'Wallstedt'},G,L,75,214,2002-11-14
@@ -453,6 +454,7 @@ NYI,8476917,{'default': 'Adam'} {'default': 'Pelech'},D,L,75,212,1994-08-16
 NYI,8477506,{'default': 'Ryan'} {'default': 'Pulock'},D,R,73,219,1994-10-06
 NYI,8481014,"{'default': 'Alexander', 'cs': 'Alexandr', 'fi': 'Aleksander', 'sk': 'Alexandr'} {'default': 'Romanov'}",D,L,73,220,2000-01-06
 NYI,8485366,{'default': 'Matthew'} {'default': 'Schaefer'},D,L,74,186,2007-09-05
+NYI,8481569,{'default': 'Marshall'} {'default': 'Warren'},D,L,71,195,2001-04-20
 NYI,8479496,{'default': 'David'} {'default': 'Rittich'},G,L,75,200,1992-08-19
 NYI,8478009,"{'default': 'Ilya', 'cs': 'Ilja', 'fi': 'Ilja', 'sk': 'Ilja'} {'default': 'Sorokin'}",G,L,75,189,1995-08-04
 NYI,8473575,"{'default': 'Semyon', 'cs': 'Semjon', 'fi': 'Semjon', 'sk': 'Semjon'} {'default': 'Varlamov'}",G,L,74,201,1988-04-27
@@ -710,6 +712,7 @@ UTA,8479293,{'default': 'Brandon'} {'default': 'Tanev'},L,L,72,189,1991-12-31
 UTA,8479977,{'default': 'Kailer'} {'default': 'Yamamoto'},R,R,69,178,1998-09-29
 UTA,8474013,{'default': 'Ian'} {'default': 'Cole'},D,L,73,237,1989-02-21
 UTA,8480084,{'default': 'Nick'} {'default': 'DeSimone'},D,R,74,194,1994-11-21
+UTA,8480434,{'default': 'Sean'} {'default': 'Durzi'},D,R,73,196,1998-10-21
 UTA,8478507,{'default': 'John'} {'default': 'Marino'},D,R,73,200,1997-05-21
 UTA,8476874,"{'default': 'Olli'} {'default': 'Määttä', 'de': 'Maatta', 'es': 'Maatta', 'fr': 'Maatta'}",D,L,74,207,1994-08-22
 UTA,8477220,{'default': 'Nate'} {'default': 'Schmidt'},D,L,72,197,1991-07-16
