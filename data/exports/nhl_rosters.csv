@@ -48,7 +48,6 @@ BOS,8476854,{'default': 'Hampus'} {'default': 'Lindholm'},D,L,76,217,1994-01-20
 BOS,8482511,{'default': 'Mason'} {'default': 'Lohrei'},D,L,77,218,2001-01-17
 BOS,8479325,{'default': 'Charlie'} {'default': 'McAvoy'},D,R,73,211,1997-12-21
 BOS,8479369,{'default': 'Andrew'} {'default': 'Peeke'},D,R,75,214,1998-03-17
-BOS,8481599,"{'default': 'Victor'} {'default': 'Soderstrom', 'cs': 'Söderström', 'sk': 'Söderström'}",D,R,72,189,2001-02-26
 BOS,8477507,{'default': 'Nikita'} {'default': 'Zadorov'},D,L,79,255,1995-04-16
 BOS,8476914,{'default': 'Joonas'} {'default': 'Korpisalo'},G,L,76,200,1994-04-28
 BOS,8480280,{'default': 'Jeremy'} {'default': 'Swayman'},G,L,75,195,1998-11-24
@@ -106,6 +105,7 @@ CAR,8481611,"{'default': 'Pyotr', 'cs': 'Pjotr', 'fi': 'Pjotr', 'sk': 'Pjotr'} {
 CBJ,8479944,{'default': 'Zachary'} {'default': 'Aston-Reese'},L,L,73,203,1994-08-10
 CBJ,8482475,"{'default': 'Yegor', 'cs': 'Jegor', 'fi': 'Jegor', 'sk': 'Jegor'} {'default': 'Chinakhov', 'cs': 'Činachov', 'fi': 'Tshinahov', 'sk': 'Činachov'}",R,L,73,203,2001-02-01
 CBJ,8475745,{'default': 'Charlie'} {'default': 'Coyle'},C,R,75,221,1992-03-02
+CBJ,8483432,{'default': 'Luca'} {'default': 'Del Bel Belluz'},C,L,73,185,2003-11-10
 CBJ,8484166,{'default': 'Adam'} {'default': 'Fantilli'},C,L,74,205,2004-10-12
 CBJ,8476867,{'default': 'Brendan'} {'default': 'Gaunce'},C,L,74,222,1994-03-25
 CBJ,8476432,{'default': 'Boone'} {'default': 'Jenner'},C,L,74,204,1993-06-15
@@ -324,7 +324,6 @@ LAK,8479421,{'default': 'Jacob'} {'default': 'Moverare'},D,L,75,205,1998-08-31
 LAK,8477831,{'default': 'Pheonix'} {'default': 'Copley'},G,L,76,205,1992-01-18
 LAK,8476341,{'default': 'Anton'} {'default': 'Forsberg'},G,L,75,200,1992-11-27
 LAK,8475311,{'default': 'Darcy'} {'default': 'Kuemper'},G,L,77,215,1990-05-05
-MIN,8477979,{'default': 'Nicolas'} {'default': 'Aube-Kubel'},R,R,72,213,1996-05-10
 MIN,8481557,{'default': 'Matt'} {'default': 'Boldy'},L,L,74,201,2001-04-05
 MIN,8478493,{'default': 'Joel'} {'default': 'Eriksson Ek'},C,L,75,207,1997-01-29
 MIN,8475220,{'default': 'Marcus'} {'default': 'Foligno'},L,L,75,226,1991-08-10
@@ -348,7 +347,6 @@ MIN,8483460,"{'default': 'David'} {'default': 'Jiricek', 'cs': 'Jiříček', 'sk
 MIN,8482641,{'default': 'Matt'} {'default': 'Kiersted'},D,L,72,182,1998-04-14
 MIN,8482781,{'default': 'Carson'} {'default': 'Lambos'},D,L,73,197,2003-01-14
 MIN,8478136,"{'default': 'Jake', 'cs': 'Jacob', 'de': 'Jacob', 'es': 'Jacob', 'fi': 'Jacob', 'sk': 'Jacob', 'sv': 'Jacob'} {'default': 'Middleton'}",D,L,75,219,1996-01-02
-MIN,8483766,{'default': 'David'} {'default': 'Spacek'},D,R,72,174,2003-02-18
 MIN,8474716,{'default': 'Jared'} {'default': 'Spurgeon'},D,R,69,166,1989-11-29
 MIN,8479406,{'default': 'Filip'} {'default': 'Gustavsson'},G,L,74,184,1998-06-07
 MIN,8482661,{'default': 'Jesper'} {'default': 'Wallstedt'},G,L,75,214,2002-11-14
@@ -500,7 +498,6 @@ OTT,8482116,{'default': 'Tim'} {'default': 'Stützle'},C,L,72,187,2002-01-15
 OTT,8480801,{'default': 'Brady'} {'default': 'Tkachuk'},L,L,76,226,1999-09-16
 OTT,8480188,{'default': 'Fabian'} {'default': 'Zetterlund'},L,R,71,208,1999-08-25
 OTT,8478469,{'default': 'Thomas'} {'default': 'Chabot'},D,L,73,200,1997-01-30
-OTT,8478502,{'default': 'Dennis'} {'default': 'Gilbert'},D,L,74,216,1996-10-30
 OTT,8475324,{'default': 'Nick'} {'default': 'Jensen'},D,R,72,202,1990-09-21
 OTT,8482095,{'default': 'Tyler'} {'default': 'Kleven'},D,L,77,225,2002-01-10
 OTT,8484321,{'default': 'Nikolas'} {'default': 'Matinpalo'},D,R,75,213,1998-10-05
@@ -622,7 +619,6 @@ STL,8477952,{'default': 'Robby'} {'default': 'Fabbri'},C,L,71,185,1996-01-22
 STL,8482077,{'default': 'Dylan'} {'default': 'Holloway'},L,L,73,207,2001-09-23
 STL,8478472,{'default': 'Mathieu'} {'default': 'Joseph'},R,L,73,189,1997-02-09
 STL,8479385,{'default': 'Jordan'} {'default': 'Kyrou'},R,R,73,189,1998-05-05
-STL,8479644,{'default': 'Matt'} {'default': 'Luff'},R,R,75,219,1997-05-05
 STL,8482089,{'default': 'Jake'} {'default': 'Neighbours'},L,L,72,201,2002-03-29
 STL,8475170,{'default': 'Brayden'} {'default': 'Schenn'},C,L,73,200,1991-08-22
 STL,8483516,{'default': 'Jimmy'} {'default': 'Snuggerud'},R,R,73,193,2004-06-01
@@ -664,7 +660,6 @@ TBL,8482929,{'default': 'Emil'} {'default': 'Lilleberg'},D,L,75,215,2001-02-02
 TBL,8474151,{'default': 'Ryan'} {'default': 'McDonagh'},D,L,73,216,1989-06-13
 TBL,8482655,{'default': 'J.J.'} {'default': 'Moser'},D,L,74,183,2000-06-06
 TBL,8478178,{'default': 'Darren'} {'default': 'Raddysh'},D,R,73,202,1996-02-28
-TBL,8477463,{'default': 'Steven'} {'default': 'Santini'},D,R,75,217,1995-03-07
 TBL,8477992,{'default': 'Jonas'} {'default': 'Johansson'},G,L,77,220,1995-09-19
 TBL,8476883,"{'default': 'Andrei', 'cs': 'Andrej', 'sk': 'Andrej'} {'default': 'Vasilevskiy', 'cs': 'Vasilevskij', 'fi': 'Vasilevski', 'sk': 'Vasilevskij'}",G,L,76,223,1994-07-25
 TOR,8484158,{'default': 'Easton'} {'default': 'Cowan'},R,L,72,190,2005-05-20
@@ -705,7 +700,6 @@ UTA,8477021,"{'default': 'Alexander', 'fr': 'Alex'} {'default': 'Kerfoot'}",C,L,
 UTA,8480855,{'default': 'Jack'} {'default': 'McBain'},C,L,76,219,2000-01-06
 UTA,8477070,"{'default': 'Liam'} {'default': ""O'Brien""}",C,L,73,215,1994-07-29
 UTA,8482175,{'default': 'JJ'} {'default': 'Peterka'},R,L,72,189,2002-01-14
-UTA,8479291,{'default': 'Kevin'} {'default': 'Rooney'},C,L,74,190,1993-05-21
 UTA,8477951,{'default': 'Nick'} {'default': 'Schmaltz'},C,R,72,184,1996-02-23
 UTA,8478831,{'default': 'Kevin'} {'default': 'Stenlund'},C,R,75,213,1996-09-20
 UTA,8479293,{'default': 'Brandon'} {'default': 'Tanev'},L,L,72,189,1991-12-31

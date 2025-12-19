@@ -1,13 +1,6 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Atlanta Hawks,1,2025-12-19T00:00Z,401810226,0,Charlotte Hornets,30,Scheduled
-0,New York Knicks,18,2025-12-19T00:00Z,401810227,0,Indiana Pacers,11,Scheduled
-0,Miami Heat,14,2025-12-19T00:30Z,401810228,0,Brooklyn Nets,17,Scheduled
-0,LA Clippers,12,2025-12-19T01:00Z,401810224,0,Oklahoma City Thunder,25,Scheduled
-0,Washington Wizards,27,2025-12-19T01:00Z,401810225,0,San Antonio Spurs,24,Scheduled
-0,Toronto Raptors,28,2025-12-19T01:00Z,401810229,0,Milwaukee Bucks,15,Scheduled
-0,Houston Rockets,10,2025-12-19T01:00Z,401810230,0,New Orleans Pelicans,3,Scheduled
-0,Detroit Pistons,8,2025-12-19T01:30Z,401810231,0,Dallas Mavericks,6,Scheduled
-0,Orlando Magic,19,2025-12-19T02:00Z,401810232,0,Denver Nuggets,7,Scheduled
-0,Golden State Warriors,9,2025-12-19T02:00Z,401810233,0,Phoenix Suns,21,Scheduled
-0,Los Angeles Lakers,13,2025-12-19T02:00Z,401810234,0,Utah Jazz,26,Scheduled
-0,Sacramento Kings,23,2025-12-19T03:00Z,401810235,0,Portland Trail Blazers,22,Scheduled
+0,Miami Heat,14,2025-12-20T00:00Z,401810236,0,Boston Celtics,2,Scheduled
+0,Philadelphia 76ers,20,2025-12-20T00:00Z,401810237,0,New York Knicks,18,Scheduled
+0,San Antonio Spurs,24,2025-12-20T00:30Z,401810238,0,Atlanta Hawks,1,Scheduled
+0,Chicago Bulls,4,2025-12-20T00:30Z,401810239,0,Cleveland Cavaliers,5,Scheduled
+0,Oklahoma City Thunder,25,2025-12-20T02:30Z,401810240,0,Minnesota Timberwolves,16,Scheduled
