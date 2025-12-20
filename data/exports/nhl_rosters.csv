@@ -65,6 +65,7 @@ BUF,8480802,{'default': 'Ryan'} {'default': 'McLeod'},C,L,75,204,1999-09-21
 BUF,8480064,{'default': 'Josh'} {'default': 'Norris'},C,L,74,196,1999-05-05
 BUF,8483500,{'default': 'Noah'} {'default': 'Ostlund'},C,L,71,180,2004-03-11
 BUF,8482097,{'default': 'Jack'} {'default': 'Quinn'},R,R,73,185,2001-09-19
+BUF,8482765,{'default': 'Isak'} {'default': 'Rosen'},R,L,72,185,2003-03-15
 BUF,8479420,{'default': 'Tage'} {'default': 'Thompson'},C,R,78,220,1997-10-30
 BUF,8477949,{'default': 'Alex'} {'default': 'Tuch'},R,R,76,219,1996-05-10
 BUF,8475722,{'default': 'Jason'} {'default': 'Zucker'},L,L,71,198,1992-01-16

@@ -1,8 +1,8 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Philadelphia Flyers,15,2025-12-20T17:30Z,401802900,0,New York Rangers,13,Scheduled
-0,Detroit Red Wings,5,2025-12-20T17:30Z,401802901,0,Washington Capitals,23,Scheduled
-0,Chicago Blackhawks,4,2025-12-20T20:00Z,401802902,0,Ottawa Senators,14,Scheduled
-0,Edmonton Oilers,6,2025-12-20T20:00Z,401802903,0,Minnesota Wild,30,Scheduled
+4,Philadelphia Flyers,15,2025-12-20T17:30Z,401802900,5,New York Rangers,13,Final
+5,Detroit Red Wings,5,2025-12-20T17:30Z,401802901,2,Washington Capitals,23,Final
+3,Chicago Blackhawks,4,2025-12-20T20:00Z,401802902,3,Ottawa Senators,14,End of Period
+2,Edmonton Oilers,6,2025-12-20T20:00Z,401802903,3,Minnesota Wild,30,In Progress
 0,New York Islanders,12,2025-12-20T22:00Z,401802904,0,Buffalo Sabres,2,Scheduled
 0,St. Louis Blues,19,2025-12-20T23:00Z,401802905,0,Florida Panthers,26,Scheduled
 0,Vancouver Canucks,22,2025-12-21T00:00Z,401802906,0,Boston Bruins,1,Scheduled
