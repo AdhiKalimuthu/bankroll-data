@@ -253,7 +253,6 @@ EDM,8484529,{'default': 'Connor'} {'default': 'Clattenburg'},C,L,74,215,2005-05-
 EDM,8477934,{'default': 'Leon'} {'default': 'Draisaitl'},C,L,74,209,1995-10-27
 EDM,8479365,{'default': 'Trent'} {'default': 'Frederic'},C,L,75,221,1998-02-11
 EDM,8474641,{'default': 'Adam'} {'default': 'Henrique'},C,L,72,195,1990-02-06
-EDM,8485511,{'default': 'Quinn'} {'default': 'Hutson'},R,R,71,176,2002-01-01
 EDM,8475786,{'default': 'Zach'} {'default': 'Hyman'},L,R,73,206,1992-06-09
 EDM,8477406,{'default': 'Mattias'} {'default': 'Janmark'},C,L,74,205,1992-12-08
 EDM,8479368,{'default': 'Max'} {'default': 'Jones'},L,L,75,216,1998-02-17
@@ -333,6 +332,7 @@ MIN,8475220,{'default': 'Marcus'} {'default': 'Foligno'},L,L,75,226,1991-08-10
 MIN,8477451,{'default': 'Ryan'} {'default': 'Hartman'},R,R,72,197,1994-09-20
 MIN,8476994,{'default': 'Vinnie'} {'default': 'Hinostroza'},C,R,70,183,1994-04-03
 MIN,8475149,{'default': 'Marcus'} {'default': 'Johansson'},L,L,73,203,1990-10-06
+MIN,8480259,{'default': 'Ben'} {'default': 'Jones'},C,L,72,187,1999-02-26
 MIN,8478864,{'default': 'Kirill'} {'default': 'Kaprizov'},L,L,70,202,1997-04-26
 MIN,8475752,{'default': 'Tyler'} {'default': 'Pitlick'},C,R,74,199,1991-11-01
 MIN,8481477,{'default': 'Nico'} {'default': 'Sturm'},C,L,75,209,1995-05-03
@@ -389,7 +389,6 @@ NJD,8481721,{'default': 'Arseny'} {'default': 'Gritsyuk'},R,L,72,195,2001-03-15
 NJD,8480002,{'default': 'Nico'} {'default': 'Hischier'},C,L,73,200,1999-01-04
 NJD,8481559,{'default': 'Jack'} {'default': 'Hughes'},C,L,71,175,2001-05-14
 NJD,8477996,{'default': 'Juho'} {'default': 'Lammikko'},C,L,74,191,1996-01-29
-NJD,8481594,{'default': 'Nathan'} {'default': 'Légaré'},R,R,72,200,2001-01-11
 NJD,8479772,"{'default': 'Zack'} {'default': 'MacEwen', 'cs': 'Macewen', 'de': 'Macewen', 'es': 'Macewen', 'fi': 'Macewen', 'sk': 'Macewen', 'sv': 'Macewen'}",R,R,76,226,1996-07-08
 NJD,8483397,{'default': 'Marc'} {'default': 'McLaughlin'},C,R,72,202,1999-07-26
 NJD,8478414,{'default': 'Timo'} {'default': 'Meier'},R,L,73,220,1996-10-08

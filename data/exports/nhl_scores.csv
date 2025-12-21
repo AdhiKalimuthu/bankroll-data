@@ -1,5 +1,5 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Washington Capitals,23,2025-12-21T18:00Z,401802913,0,Detroit Red Wings,5,Scheduled
+2,Washington Capitals,23,2025-12-21T18:00Z,401802913,3,Detroit Red Wings,5,Final
 0,Colorado Avalanche,17,2025-12-21T23:00Z,401802914,0,Minnesota Wild,30,Scheduled
 0,Ottawa Senators,14,2025-12-22T00:00Z,401802915,0,Boston Bruins,1,Scheduled
 0,Buffalo Sabres,2,2025-12-22T00:00Z,401802916,0,New Jersey Devils,11,Scheduled

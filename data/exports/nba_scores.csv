@@ -1,5 +1,5 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Chicago Bulls,4,2025-12-21T20:30Z,401810251,0,Atlanta Hawks,1,Scheduled
+93,Chicago Bulls,4,2025-12-21T20:30Z,401810251,84,Atlanta Hawks,1,In Progress
 0,Toronto Raptors,28,2025-12-21T23:00Z,401810252,0,Brooklyn Nets,17,Scheduled
 0,Miami Heat,14,2025-12-21T23:00Z,401810253,0,New York Knicks,18,Scheduled
 0,San Antonio Spurs,24,2025-12-22T00:00Z,401810254,0,Washington Wizards,27,Scheduled
