@@ -89,6 +89,7 @@ CAR,8476873,{'default': 'Mark'} {'default': 'Jankowski'},L,L,76,200,1994-09-13
 CAR,8482093,{'default': 'Seth'} {'default': 'Jarvis'},C,R,70,180,2002-02-01
 CAR,8480829,{'default': 'Jesperi'} {'default': 'Kotkaniemi'},C,L,75,212,2000-07-06
 CAR,8476921,{'default': 'Jordan'} {'default': 'Martinook'},L,L,73,208,1992-07-25
+CAR,8484203,{'default': 'Bradly'} {'default': 'Nadeau'},L,R,71,180,2005-05-05
 CAR,8480762,{'default': 'Eric'} {'default': 'Robinson'},L,L,74,220,1995-06-14
 CAR,8473533,{'default': 'Jordan'} {'default': 'Staal'},C,L,76,220,1988-09-10
 CAR,8482702,{'default': 'Logan'} {'default': 'Stankoven'},C,R,68,165,2003-02-26
@@ -274,6 +275,7 @@ EDM,8480831,{'default': 'Alec'} {'default': 'Regula'},D,R,76,211,2000-08-06
 EDM,8481056,{'default': 'Spencer'} {'default': 'Stastney'},D,L,72,184,2000-01-04
 EDM,8479388,{'default': 'Riley'} {'default': 'Stillman'},D,L,74,207,1998-03-09
 EDM,8478013,{'default': 'Jake'} {'default': 'Walman'},D,L,73,218,1996-02-20
+EDM,8478971,{'default': 'Connor'} {'default': 'Ingram'},G,L,73,218,1997-03-31
 EDM,8477465,{'default': 'Tristan'} {'default': 'Jarry'},G,L,76,201,1995-04-29
 EDM,8475717,{'default': 'Calvin'} {'default': 'Pickard'},G,L,73,206,1992-04-15
 FLA,8477493,{'default': 'Aleksander'} {'default': 'Barkov'},C,L,75,214,1995-09-02
@@ -648,7 +650,6 @@ TBL,8480995,{'default': 'Pontus'} {'default': 'Holmberg'},R,L,72,201,1999-03-09
 TBL,8483752,{'default': 'Dominic'} {'default': 'James'},C,L,72,190,2002-07-03
 TBL,8476453,"{'default': 'Nikita'} {'default': 'Kucherov', 'cs': 'Kučerov', 'fi': 'Kutsherov', 'sk': 'Kučerov'}",R,L,72,173,1993-06-17
 TBL,8477426,{'default': 'Nick'} {'default': 'Paul'},L,L,76,234,1995-03-20
-TBL,8481592,{'default': 'Jakob'} {'default': 'Pelletier'},L,L,70,172,2001-03-07
 TBL,8478010,{'default': 'Brayden'} {'default': 'Point'},C,R,71,177,1996-03-13
 TBL,8483398,{'default': 'Declan'} {'default': 'Carlile'},D,L,75,190,2000-05-18
 TBL,8478416,"{'default': 'Erik'} {'default': 'Cernak', 'cs': 'Černák', 'sk': 'Černák'}",D,R,76,230,1997-05-28

@@ -1,14 +1,10 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-4,Philadelphia Flyers,15,2025-12-20T17:30Z,401802900,5,New York Rangers,13,Final
-5,Detroit Red Wings,5,2025-12-20T17:30Z,401802901,2,Washington Capitals,23,Final
-3,Chicago Blackhawks,4,2025-12-20T20:00Z,401802902,3,Ottawa Senators,14,End of Period
-2,Edmonton Oilers,6,2025-12-20T20:00Z,401802903,3,Minnesota Wild,30,In Progress
-0,New York Islanders,12,2025-12-20T22:00Z,401802904,0,Buffalo Sabres,2,Scheduled
-0,St. Louis Blues,19,2025-12-20T23:00Z,401802905,0,Florida Panthers,26,Scheduled
-0,Vancouver Canucks,22,2025-12-21T00:00Z,401802906,0,Boston Bruins,1,Scheduled
-0,Pittsburgh Penguins,16,2025-12-21T00:00Z,401802907,0,Montreal Canadiens,10,Scheduled
-0,Carolina Hurricanes,7,2025-12-21T00:00Z,401802908,0,Tampa Bay Lightning,20,Scheduled
-0,Toronto Maple Leafs,21,2025-12-21T00:00Z,401802909,0,Nashville Predators,27,Scheduled
-0,Vegas Golden Knights,37,2025-12-21T03:00Z,401802910,0,Calgary Flames,3,Scheduled
-0,Columbus Blue Jackets,29,2025-12-21T03:00Z,401802911,0,Anaheim Ducks,25,Scheduled
-0,Seattle Kraken,124292,2025-12-21T03:00Z,401802912,0,San Jose Sharks,18,Scheduled
+0,Washington Capitals,23,2025-12-21T18:00Z,401802913,0,Detroit Red Wings,5,Scheduled
+0,Colorado Avalanche,17,2025-12-21T23:00Z,401802914,0,Minnesota Wild,30,Scheduled
+0,Ottawa Senators,14,2025-12-22T00:00Z,401802915,0,Boston Bruins,1,Scheduled
+0,Buffalo Sabres,2,2025-12-22T00:00Z,401802916,0,New Jersey Devils,11,Scheduled
+0,Montreal Canadiens,10,2025-12-22T00:00Z,401802917,0,Pittsburgh Penguins,16,Scheduled
+0,New York Rangers,13,2025-12-22T00:00Z,401802918,0,Nashville Predators,27,Scheduled
+0,Toronto Maple Leafs,21,2025-12-22T00:00Z,401802919,0,Dallas Stars,9,Scheduled
+0,Winnipeg Jets,28,2025-12-22T00:00Z,401802920,0,Utah Mammoth,129764,Scheduled
+0,Vegas Golden Knights,37,2025-12-22T01:00Z,401802921,0,Edmonton Oilers,6,Scheduled
