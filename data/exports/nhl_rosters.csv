@@ -452,6 +452,7 @@ NYI,8477506,{'default': 'Ryan'} {'default': 'Pulock'},D,R,73,219,1994-10-06
 NYI,8481014,"{'default': 'Alexander', 'cs': 'Alexandr', 'fi': 'Aleksander', 'sk': 'Alexandr'} {'default': 'Romanov'}",D,L,73,220,2000-01-06
 NYI,8485366,{'default': 'Matthew'} {'default': 'Schaefer'},D,L,74,186,2007-09-05
 NYI,8481569,{'default': 'Marshall'} {'default': 'Warren'},D,L,71,195,2001-04-20
+NYI,8477405,"{'default': 'Marcus'} {'default': 'Hogberg', 'cs': 'Högberg', 'sk': 'Högberg'}",G,L,77,232,1994-11-25
 NYI,8479496,{'default': 'David'} {'default': 'Rittich'},G,L,75,200,1992-08-19
 NYI,8478009,"{'default': 'Ilya', 'cs': 'Ilja', 'fi': 'Ilja', 'sk': 'Ilja'} {'default': 'Sorokin'}",G,L,75,189,1995-08-04
 NYI,8473575,"{'default': 'Semyon', 'cs': 'Semjon', 'fi': 'Semjon', 'sk': 'Semjon'} {'default': 'Varlamov'}",G,L,74,201,1988-04-27
@@ -528,7 +529,6 @@ PHI,8477948,{'default': 'Travis'} {'default': 'Sanheim'},D,L,76,222,1996-03-29
 PHI,8476372,{'default': 'Nick'} {'default': 'Seeler'},D,L,75,197,1993-06-03
 PHI,8481546,{'default': 'Cam'} {'default': 'York'},D,L,72,194,2001-01-05
 PHI,8481035,{'default': 'Samuel'} {'default': 'Ersson'},G,L,75,194,1999-10-20
-PHI,8482783,"{'default': 'Aleksei', 'cs': 'Alexej', 'sk': 'Alexej'} {'default': 'Kolosov'}",G,L,73,185,2002-01-04
 PHI,8478435,"{'default': 'Dan'} {'default': 'Vladar', 'cs': 'Vladař', 'sk': 'Vladař'}",G,L,77,209,1997-08-20
 PIT,8478569,{'default': 'Noel'} {'default': 'Acciari'},C,R,71,204,1991-12-01
 PIT,8479638,{'default': 'Justin'} {'default': 'Brazeau'},R,R,78,232,1998-02-02
