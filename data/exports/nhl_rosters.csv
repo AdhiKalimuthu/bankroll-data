@@ -333,7 +333,6 @@ MIN,8475220,{'default': 'Marcus'} {'default': 'Foligno'},L,L,75,226,1991-08-10
 MIN,8477451,{'default': 'Ryan'} {'default': 'Hartman'},R,R,72,197,1994-09-20
 MIN,8476994,{'default': 'Vinnie'} {'default': 'Hinostroza'},C,R,70,183,1994-04-03
 MIN,8475149,{'default': 'Marcus'} {'default': 'Johansson'},L,L,73,203,1990-10-06
-MIN,8480259,{'default': 'Ben'} {'default': 'Jones'},C,L,72,187,1999-02-26
 MIN,8478864,{'default': 'Kirill'} {'default': 'Kaprizov'},L,L,70,202,1997-04-26
 MIN,8475752,{'default': 'Tyler'} {'default': 'Pitlick'},C,R,74,199,1991-11-01
 MIN,8481477,{'default': 'Nico'} {'default': 'Sturm'},C,L,75,209,1995-05-03
@@ -756,6 +755,7 @@ VGK,8476438,{'default': 'Brandon'} {'default': 'Saad'},L,L,73,207,1992-10-27
 VGK,8476925,{'default': 'Colton'} {'default': 'Sissons'},C,R,73,200,1993-11-05
 VGK,8475191,{'default': 'Reilly'} {'default': 'Smith'},R,L,73,185,1991-04-01
 VGK,8475913,{'default': 'Mark'} {'default': 'Stone'},R,R,75,210,1992-05-13
+VGK,8479639,{'default': 'Dylan'} {'default': 'Coghlan'},D,R,74,205,1998-02-19
 VGK,8478396,{'default': 'Noah'} {'default': 'Hanifin'},D,L,75,206,1997-01-25
 VGK,8477018,{'default': 'Ben'} {'default': 'Hutton'},D,L,75,209,1993-04-20
 VGK,8481527,{'default': 'Kaedan'} {'default': 'Korczak'},D,R,75,206,2001-01-29
