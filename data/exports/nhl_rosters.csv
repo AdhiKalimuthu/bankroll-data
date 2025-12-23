@@ -99,6 +99,7 @@ CAR,8476906,{'default': 'Shayne'} {'default': 'Gostisbehere'},D,L,71,183,1993-04
 CAR,8484428,{'default': 'Charles Alexis'} {'default': 'Legault'},D,R,76,220,2003-09-05
 CAR,8480817,"{'default': ""K'Andre""} {'default': 'Miller'}",D,L,77,210,2000-01-21
 CAR,8482100,{'default': 'Alexander'} {'default': 'Nikishin'},D,L,75,218,2001-10-02
+CAR,8482911,{'default': 'Joel'} {'default': 'Nystrom'},D,R,71,178,2002-05-14
 CAR,8476422,{'default': 'Mike'} {'default': 'Reilly'},D,L,74,191,1993-07-13
 CAR,8476958,{'default': 'Jaccob'} {'default': 'Slavin'},D,L,75,207,1994-05-01
 CAR,8480336,{'default': 'Sean'} {'default': 'Walker'},D,R,71,191,1994-11-13
@@ -108,8 +109,8 @@ CAR,8481611,"{'default': 'Pyotr', 'cs': 'Pjotr', 'fi': 'Pjotr', 'sk': 'Pjotr'} {
 CBJ,8479944,{'default': 'Zachary'} {'default': 'Aston-Reese'},L,L,73,203,1994-08-10
 CBJ,8482475,"{'default': 'Yegor', 'cs': 'Jegor', 'fi': 'Jegor', 'sk': 'Jegor'} {'default': 'Chinakhov', 'cs': 'Činachov', 'fi': 'Tshinahov', 'sk': 'Činachov'}",R,L,73,203,2001-02-01
 CBJ,8475745,{'default': 'Charlie'} {'default': 'Coyle'},C,R,75,221,1992-03-02
-CBJ,8483432,{'default': 'Luca'} {'default': 'Del Bel Belluz'},C,L,73,185,2003-11-10
 CBJ,8484166,{'default': 'Adam'} {'default': 'Fantilli'},C,L,74,205,2004-10-12
+CBJ,8476867,{'default': 'Brendan'} {'default': 'Gaunce'},C,L,74,222,1994-03-25
 CBJ,8476432,{'default': 'Boone'} {'default': 'Jenner'},C,L,74,204,1993-06-15
 CBJ,8482660,{'default': 'Kent'} {'default': 'Johnson'},C,L,72,170,2002-10-18
 CBJ,8480806,{'default': 'Isac'} {'default': 'Lundeström'},C,L,73,192,1999-11-06
@@ -353,6 +354,7 @@ MIN,8479406,{'default': 'Filip'} {'default': 'Gustavsson'},G,L,74,184,1998-06-07
 MIN,8482661,{'default': 'Jesper'} {'default': 'Wallstedt'},G,L,75,214,2002-11-14
 MTL,8476981,{'default': 'Josh'} {'default': 'Anderson'},R,R,75,226,1994-05-07
 MTL,8483424,{'default': 'Owen'} {'default': 'Beck'},C,R,72,199,2004-02-03
+MTL,8478104,{'default': 'Sammy'} {'default': 'Blais'},L,L,74,206,1996-06-17
 MTL,8482737,{'default': 'Zachary'} {'default': 'Bolduc'},R,L,72,187,2003-02-24
 MTL,8481540,{'default': 'Cole'} {'default': 'Caufield'},R,R,68,175,2001-01-02
 MTL,8481523,{'default': 'Kirby'} {'default': 'Dach'},C,R,76,221,2001-01-21
