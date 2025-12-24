@@ -707,7 +707,6 @@ UTA,8478507,{'default': 'John'} {'default': 'Marino'},D,R,73,200,1997-05-21
 UTA,8476874,"{'default': 'Olli'} {'default': 'Määttä', 'de': 'Maatta', 'es': 'Maatta', 'fr': 'Maatta'}",D,L,74,207,1994-08-22
 UTA,8477220,{'default': 'Nate'} {'default': 'Schmidt'},D,L,72,197,1991-07-16
 UTA,8479410,"{'default': 'Mikhail', 'cs': 'Michail', 'fi': 'Mihail', 'sk': 'Michail'} {'default': 'Sergachev', 'cs': 'Sergačov', 'fi': 'Sergatshov', 'sk': 'Sergačov'}",D,L,75,212,1998-06-25
-UTA,8485907,{'default': 'Colten'} {'default': 'McIntyre'},G,L,72,165,2004-03-26
 UTA,8477970,"{'default': 'Vitek'} {'default': 'Vanecek', 'cs': 'Vaněček', 'sk': 'Vaněček'}",G,L,74,184,1996-01-09
 UTA,8478872,{'default': 'Karel'} {'default': 'Vejmelka'},G,R,76,221,1996-05-25
 VAN,8482496,"{'default': 'Nils'} {'default': 'Aman', 'fi': 'Åman', 'sv': 'Åman'}",C,L,74,179,2000-02-07
