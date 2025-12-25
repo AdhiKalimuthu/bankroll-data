@@ -1,4 +1,4 @@
 away_score,away_team,away_team_id,date,event_id,home_score,home_team,home_team_id,status
-0,Dallas Cowboys,6,2025-12-25T18:00Z,401772710,0,Washington Commanders,28,Scheduled
-0,Detroit Lions,8,2025-12-25T21:30Z,401772711,0,Minnesota Vikings,16,Scheduled
+0,Detroit Lions,8,2025-12-25T21:30Z,401772711,0,Minnesota Vikings,16,In Progress
+30,Dallas Cowboys,6,2025-12-25T18:00Z,401772710,23,Washington Commanders,28,Final
 0,Denver Broncos,7,2025-12-26T01:15Z,401772622,0,Kansas City Chiefs,12,Scheduled
