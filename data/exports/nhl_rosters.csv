@@ -265,7 +265,6 @@ EDM,8481491,{'default': 'Noah'} {'default': 'Philp'},C,R,75,198,1998-08-31
 EDM,8481617,"{'default': 'Vasily', 'cs': 'Vasilij', 'fi': 'Vasili', 'sk': 'Vasilij'} {'default': 'Podkolzin'}",R,L,73,190,2001-06-24
 EDM,8478458,{'default': 'Jack'} {'default': 'Roslovic'},C,R,73,198,1997-01-29
 EDM,8483512,{'default': 'Matt'} {'default': 'Savoie'},C,R,70,179,2004-01-01
-EDM,8485493,{'default': 'David'} {'default': 'Tomasek'},R,R,74,210,1996-02-10
 EDM,8480803,{'default': 'Evan'} {'default': 'Bouchard'},D,R,75,192,1999-10-20
 EDM,8475218,{'default': 'Mattias'} {'default': 'Ekholm'},D,L,77,225,1990-05-24
 EDM,8480834,{'default': 'Ty'} {'default': 'Emberson'},D,R,72,193,2000-05-23
